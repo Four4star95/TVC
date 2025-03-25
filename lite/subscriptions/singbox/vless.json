@@ -111,8 +111,8 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 15",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 11",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
@@ -130,8 +130,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 146",
-                "🇸🇪SE | 🔴 | vless | @prrofile_purple | 147",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 139",
+                "🇳🇱NL | 🟢 | vless | @prrofile_purple | 140",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -148,8 +148,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
-                "🇯🇵JP | 🔴 | vless | @VmessProtocol | 11",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
+                "🇯🇵JP | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 130",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 131",
                 "❔XX | 🔴 | vless | @proxystore11 | 4",
@@ -181,8 +181,8 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 15",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 11",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
@@ -200,8 +200,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 146",
-                "🇸🇪SE | 🔴 | vless | @prrofile_purple | 147",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 139",
+                "🇳🇱NL | 🟢 | vless | @prrofile_purple | 140",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -218,8 +218,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
-                "🇯🇵JP | 🔴 | vless | @VmessProtocol | 11",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
+                "🇯🇵JP | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 130",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 131",
                 "❔XX | 🔴 | vless | @proxystore11 | 4",
@@ -363,9 +363,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "51.20.0.176",
+            "server": "63.177.184.102",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -394,9 +394,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "54.217.90.232",
+            "server": "13.50.146.108",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -832,11 +832,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 146",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 139",
             "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "4375e80e-d06f-4af9-bfec-afbfd63a1584",
+            "server": "54.37.78.215",
+            "server_port": 36632,
+            "uuid": "138a09b2-6a45-470a-a77f-bf75bf40e509",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -845,25 +845,40 @@
                 "max_streams": 32
             },
             "transport": {
-                "type": "ws",
-                "path": "\/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry",
-                "headers": {
-                    "Host": "151.101.64.155"
-                }
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @prrofile_purple | 147",
+            "tag": "🇳🇱NL | 🟢 | vless | @prrofile_purple | 140",
             "type": "vless",
-            "server": "91.92.40.78",
-            "server_port": 2070,
-            "uuid": "e98b3601-d546-436c-879a-ad589f52666e",
-            "flow": "",
+            "server": "212.111.88.184",
+            "server_port": 443,
+            "uuid": "RAKETA_5889827",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "310Tjx1xSaet9WjXtEJEngtdp-NhD6GWJs7ZQSoblhc",
+                    "short_id": "ffffffffff"
+                }
             }
         },
         {
@@ -1270,7 +1285,38 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🔴 | vless | @VmessProtocol | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
+            "type": "vless",
+            "server": "104.17.148.22",
+            "server_port": 2096,
+            "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "FuMzLrHj.kOrTiZ.InFo",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "FuMzLrHj.kOrTiZ.InFo"
+                }
+            }
+        },
+        {
+            "tag": "🇯🇵JP | 🔴 | vless | @VmessProtocol | 12",
             "type": "vless",
             "server": "156.238.18.28",
             "server_port": 2095,
@@ -1287,27 +1333,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "156.238.18.28"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
