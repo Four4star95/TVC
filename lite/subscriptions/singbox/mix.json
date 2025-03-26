@@ -144,7 +144,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇨🇭CH | 🟢 | vmess | @ShadowProxy66 | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 9",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
@@ -164,10 +164,10 @@
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 3",
                 "❔XX | 🔴 | vless | @proxystore11 | 4",
                 "🇭🇰HK | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
-                "❔XX | 🟢 | vmess | @Hope_Net | 4",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
@@ -229,7 +229,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇨🇭CH | 🟢 | vmess | @ShadowProxy66 | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 9",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
@@ -249,10 +249,10 @@
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 3",
                 "❔XX | 🔴 | vless | @proxystore11 | 4",
                 "🇭🇰HK | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
-                "❔XX | 🟢 | vmess | @Hope_Net | 4",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
@@ -1156,7 +1156,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1672,7 +1672,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -1727,7 +1727,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 1080,
@@ -1744,7 +1744,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 2080,
