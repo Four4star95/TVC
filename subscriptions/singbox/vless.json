@@ -184,7 +184,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
@@ -432,7 +432,7 @@
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 2",
-                "🇫🇮FI | 🔴 | vless | @FreakConfig | 3",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 5",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 7",
@@ -586,7 +586,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
@@ -834,7 +834,7 @@
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 2",
-                "🇫🇮FI | 🔴 | vless | @FreakConfig | 3",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 5",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 7",
@@ -2686,7 +2686,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -9110,7 +9110,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @FreakConfig | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
             "type": "vless",
             "server": "242232454.web-manage.com.tr",
             "server_port": 1521,
