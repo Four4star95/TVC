@@ -2310,7 +2310,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/TELEGRAM-NUFiLTER-931d54cffcad@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=banagh.vipnufilter.online&type=ws#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@customv2ray%20|%204"
+        "config": "vless:\/\/TELEGRAM-NUFiLTER-931d54cffcad@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=banagh.vipnufilter.online&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@customv2ray%20|%204"
     },
     {
         "channel": {
@@ -2688,7 +2688,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.5.J.mehpow.iR.&type=ws#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@v2ray_swhil%20|%2034"
+        "config": "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.5.J.mehpow.iR.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2ray_swhil%20|%2034"
     },
     {
         "channel": {
@@ -3246,7 +3246,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=WdFpOtDq3.RiCkTmOuSe.iNfO&type=ws&alpn=h2http%2F1.1&host=WdFpOtDq3.RiCkTmOuSe.iNfO&path=%2F#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@DailyV2RY%20|%2083"
+        "config": "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=WdFpOtDq3.RiCkTmOuSe.iNfO&type=ws&alpn=h2http%2F1.1&host=WdFpOtDq3.RiCkTmOuSe.iNfO&path=%2F#🇺🇸US%20|%20🔴%20|%20vless%20|%20@DailyV2RY%20|%2083"
     },
     {
         "channel": {
@@ -3354,7 +3354,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GtIbRcMp5.RoMaNyAe.iNfO&type=ws&alpn=h2http%2F1.1&host=GtIbRcMp5.RoMaNyAe.iNfO&path=%2F#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@DailyV2RY%20|%20103"
+        "config": "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GtIbRcMp5.RoMaNyAe.iNfO&type=ws&alpn=h2http%2F1.1&host=GtIbRcMp5.RoMaNyAe.iNfO&path=%2F#🇺🇸US%20|%20🔴%20|%20vless%20|%20@DailyV2RY%20|%20103"
     },
     {
         "channel": {
