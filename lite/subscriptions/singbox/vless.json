@@ -113,8 +113,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇵🇱PL | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -134,7 +134,7 @@
                 "❔XX | 🟢 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 9",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -149,7 +149,7 @@
                 "🇦🇺AU | 🟢 | vless | @DailyV2RY | 305",
                 "❔XX | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @free1_vpn | 8",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
@@ -179,8 +179,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇵🇱PL | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -200,7 +200,7 @@
                 "❔XX | 🟢 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 9",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -215,7 +215,7 @@
                 "🇦🇺AU | 🟢 | vless | @DailyV2RY | 305",
                 "❔XX | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @free1_vpn | 8",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
@@ -417,7 +417,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -438,7 +438,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -936,7 +936,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1326,7 +1326,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @free1_vpn | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
