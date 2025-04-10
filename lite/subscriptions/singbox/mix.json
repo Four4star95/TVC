@@ -174,7 +174,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🟢 | ss | @kingofilter | 19",
-                "❔XX | 🔴 | vless | @kingofilter | 20",
+                "🇷🇸RS | 🔴 | vless | @kingofilter | 20",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
                 "❔XX | 🔴 | vless | @SvnTeam | 8",
@@ -255,7 +255,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🟢 | ss | @kingofilter | 19",
-                "❔XX | 🔴 | vless | @kingofilter | 20",
+                "🇷🇸RS | 🔴 | vless | @kingofilter | 20",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
                 "❔XX | 🔴 | vless | @SvnTeam | 8",
@@ -1920,7 +1920,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 20",
+            "tag": "🇷🇸RS | 🔴 | vless | @kingofilter | 20",
             "type": "vless",
             "server": "vpnandroid2.info.gf",
             "server_port": 8880,
