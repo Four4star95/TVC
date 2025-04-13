@@ -303,7 +303,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 4",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 4",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 5",
                 "❔XX | 🔴 | vless | @ServerNett | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 7",
@@ -407,7 +407,7 @@
                 "🚩CF | 🔴 | vless | @DailyV2RY | 273",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 274",
                 "❔XX | 🔴 | vless | @DailyV2RY | 275",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 276",
+                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 276",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 278",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 279",
                 "❔XX | 🔴 | vless | @DailyV2RY | 280",
@@ -695,7 +695,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 4",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 4",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 5",
                 "❔XX | 🔴 | vless | @ServerNett | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 7",
@@ -799,7 +799,7 @@
                 "🚩CF | 🔴 | vless | @DailyV2RY | 273",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 274",
                 "❔XX | 🔴 | vless | @DailyV2RY | 275",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 276",
+                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 276",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 278",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 279",
                 "❔XX | 🔴 | vless | @DailyV2RY | 280",
@@ -5444,7 +5444,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 4",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
@@ -8105,7 +8105,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 276",
+            "tag": "🇸🇪SE | 🔴 | vless | @DailyV2RY | 276",
             "type": "vless",
             "server": "inthenameofgodfragment.ignorelist.com",
             "server_port": 443,
