@@ -113,15 +113,15 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇲🇾MY | 🔴 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -163,7 +163,7 @@
                 "🇮🇷IR | 🔴 | vless | @kingofilter | 41",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇩🇰DK | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -180,15 +180,15 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇲🇾MY | 🔴 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -230,7 +230,7 @@
                 "🇮🇷IR | 🔴 | vless | @kingofilter | 41",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇩🇰DK | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -260,7 +260,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 80,
-            "uuid": "Parsashonam-217",
+            "uuid": "Parsashonam-218",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -281,7 +281,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-217",
+            "uuid": "Parsashonam-218",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -419,7 +419,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -440,7 +440,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -503,7 +503,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -587,7 +587,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1579,7 +1579,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
