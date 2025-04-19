@@ -107,7 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 30",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 0",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
@@ -131,8 +131,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 142",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 135",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 1",
@@ -177,7 +176,7 @@
             "type": "urltest",
             "outbounds": [
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 30",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 0",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
@@ -201,8 +200,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 142",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 135",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 1",
@@ -276,7 +274,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 0",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 1",
             "type": "vless",
             "server": "172.67.73.163",
             "server_port": 80,
@@ -816,11 +814,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 142",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 135",
             "type": "vless",
-            "server": "128.140.90.226",
-            "server_port": 8880,
-            "uuid": "1b0f1d84-c07a-4be5-a4fc-cba3aad7a407",
+            "server": "217.60.239.58",
+            "server_port": 26165,
+            "uuid": "2319600a-19b1-41c4-b73f-69b96d58072e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -829,25 +827,11 @@
                 "max_streams": 32
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "@cephalon_ai_bot",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "48ee8f13-4073-4092-bbf8-0a7394d7fea2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+                "type": "ws",
+                "path": "\/telegram: @summertimeus",
+                "headers": {
+                    "Host": "217.60.239.58"
+                }
             }
         },
         {
@@ -1381,7 +1365,7 @@
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
-            "uuid": "79af54f4-6fce-43f0-8992-67d42fe1445e",
+            "uuid": "a83099e9-2fff-4417-9a01-96427517652f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1402,7 +1386,7 @@
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
-            "uuid": "d0b522c8-9f85-45c2-b62c-b1b90fcfe2a8",
+            "uuid": "79af54f4-6fce-43f0-8992-67d42fe1445e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
