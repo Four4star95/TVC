@@ -115,7 +115,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 26",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 27",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 13",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
@@ -169,8 +169,8 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
-                "🇳🇱NL | 🔴 | vless | @mehrosaboran | 5",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
+                "🇳🇱NL | 🔴 | vless | @mehrosaboran | 4",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 6",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -198,7 +198,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 26",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 27",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 13",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
@@ -252,8 +252,8 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
-                "🇳🇱NL | 🔴 | vless | @mehrosaboran | 5",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
+                "🇳🇱NL | 🔴 | vless | @mehrosaboran | 4",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 6",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -459,7 +459,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1732,7 +1732,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
             "type": "vless",
             "server": "104.24.196.20",
             "server_port": 2095,
@@ -1746,7 +1746,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @mehrosaboran | 5",
+            "tag": "🇳🇱NL | 🔴 | vless | @mehrosaboran | 4",
             "type": "vless",
             "server": "151.101.38.133",
             "server_port": 80,
