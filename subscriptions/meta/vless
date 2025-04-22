@@ -298,7 +298,7 @@ proxies:
   - {"name":"🇺🇸US | 🟢 | vless | @MTConfig | 0","type":"vless","server":"hajlab.ucdavis.edu","port":443,"udp":false,"uuid":"550f4b49-fa81-4753-b08c-08b63bd192c8","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"hajlab.ucdavis.edu","ws-opts":{"path":"/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048","headers":{"host":"joinshhproxybedeeeee.ir"}}}
   - {"name":"🇺🇸US | 🟢 | vless | @MTConfig | 1","type":"vless","server":"hajlab.ucdavis.edu","port":443,"udp":false,"uuid":"64136efd-f03f-4954-9768-1aa923e6f5c1","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"hajlab.ucdavis.edu","ws-opts":{"path":"/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048","headers":{"host":"joinshhproxybedeeeee.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @MTConfig | 2","type":"vless","server":"hajlab.ucdavis.edu","port":443,"udp":false,"uuid":"54305822-de94-4943-8685-2d7cc003b774","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"hajlab.ucdavis.edu","ws-opts":{"path":"/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048","headers":{"host":"joinshhproxybedeeeee.ir"}}}
-  - {"name":"❔XX | 🔴 | vless | @MTConfig | 4","type":"vless","server":"g.soskom.ir","port":443,"udp":true,"uuid":"cc91a35a-5c6f-4cd0-9c8e-9e3e168bb322","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"yahoo.com","grpc-opts":{"grpc-service-name":"Tel:@NT_Safe"},"reality-opts":{"public-key":"zT6tM7lUqiWV_KuA1hp-ckrXDCA0d9_DG40JQGlh6zo","short-id":"a27ce1b2604c96"}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @MTConfig | 4","type":"vless","server":"g.soskom.ir","port":443,"udp":true,"uuid":"cc91a35a-5c6f-4cd0-9c8e-9e3e168bb322","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"yahoo.com","grpc-opts":{"grpc-service-name":"Tel:@NT_Safe"},"reality-opts":{"public-key":"zT6tM7lUqiWV_KuA1hp-ckrXDCA0d9_DG40JQGlh6zo","short-id":"a27ce1b2604c96"}}
   - {"name":"🚩CF | 🔴 | vless | @MTConfig | 5","type":"vless","server":"172.66.44.135","port":80,"udp":false,"uuid":"5df7962e-f9fe-41e6-ab49-ed96ccb856a7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"v2ra1.ecrgpk.workers.dev"}}}
   - {"name":"🇸🇪SE | 🔴 | vless | @MTConfig | 6","type":"vless","server":"185.146.173.37","port":2095,"udp":false,"uuid":"6e94bfa2-e3e2-443d-ad69-d6fcfcaf14f2","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com."}}}
   - {"name":"❔XX | 🔴 | vless | @MTConfig | 7","type":"vless","server":"all.vipxali.cfd","port":443,"udp":false,"uuid":"0a4acf58-cc3c-4f99-89c1-70d7ca3fbd92","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"mx.XsV2ray.cfd","grpc-opts":{"grpc-service-name":"@XsV2ray,@XsV2ray"}}
@@ -587,7 +587,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @MTConfig | 0'
       - '🇺🇸US | 🟢 | vless | @MTConfig | 1'
       - '🇺🇸US | 🔴 | vless | @MTConfig | 2'
-      - '❔XX | 🔴 | vless | @MTConfig | 4'
+      - '🇩🇪DE | 🔴 | vless | @MTConfig | 4'
       - '🚩CF | 🔴 | vless | @MTConfig | 5'
       - '🇸🇪SE | 🔴 | vless | @MTConfig | 6'
       - '❔XX | 🔴 | vless | @MTConfig | 7'
@@ -876,7 +876,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @MTConfig | 0'
       - '🇺🇸US | 🟢 | vless | @MTConfig | 1'
       - '🇺🇸US | 🔴 | vless | @MTConfig | 2'
-      - '❔XX | 🔴 | vless | @MTConfig | 4'
+      - '🇩🇪DE | 🔴 | vless | @MTConfig | 4'
       - '🚩CF | 🔴 | vless | @MTConfig | 5'
       - '🇸🇪SE | 🔴 | vless | @MTConfig | 6'
       - '❔XX | 🔴 | vless | @MTConfig | 7'
@@ -1164,7 +1164,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @MTConfig | 0'
       - '🇺🇸US | 🟢 | vless | @MTConfig | 1'
       - '🇺🇸US | 🔴 | vless | @MTConfig | 2'
-      - '❔XX | 🔴 | vless | @MTConfig | 4'
+      - '🇩🇪DE | 🔴 | vless | @MTConfig | 4'
       - '🚩CF | 🔴 | vless | @MTConfig | 5'
       - '🇸🇪SE | 🔴 | vless | @MTConfig | 6'
       - '❔XX | 🔴 | vless | @MTConfig | 7'
