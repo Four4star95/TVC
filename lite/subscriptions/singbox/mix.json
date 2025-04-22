@@ -178,7 +178,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 44",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "❔XX | 🔴 | vless | @SvnTeam | 8",
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
                 "🇩🇰DK | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3",
@@ -261,7 +261,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 44",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "❔XX | 🔴 | vless | @SvnTeam | 8",
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
                 "🇩🇰DK | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3",
@@ -1420,7 +1420,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s27.sabzmaghz.ir",
+                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s30.sabzmaghz.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1432,7 +1432,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s27.sabzmaghz.ir"
+                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s30.sabzmaghz.ir"
                 }
             }
         },
@@ -1929,7 +1929,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
