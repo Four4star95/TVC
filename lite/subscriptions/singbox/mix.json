@@ -116,8 +116,8 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 26",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 27",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 13",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
@@ -164,7 +164,7 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 7",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -201,8 +201,8 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 26",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 27",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 13",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
@@ -249,7 +249,7 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 7",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -484,7 +484,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
@@ -505,7 +505,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1643,7 +1643,31 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
+            "type": "vmess",
+            "server": "v6.heduian.link",
+            "server_port": 30806,
+            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "security": "auto",
+            "alter_id": 2,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/oooo",
+                "headers": {
+                    "Host": "v6.heduian.link"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
             "type": "vmess",
             "server": "s2.db-link02.top",
             "server_port": 2052,
@@ -1663,40 +1687,6 @@
                 "path": "\/dabai.in172.64.6.224",
                 "headers": {
                     "Host": "s2.db-link02.top"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
-            "type": "vmess",
-            "server": "time.is",
-            "server_port": 443,
-            "uuid": "00a9a559-8bb0-425e-bc97-c9885a575455",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "time.is",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/lzjjjjjjjjjjjjjjjjjjjjjjj666-vm",
-                "headers": {
-                    "Host": "time.is"
                 }
             }
         },
