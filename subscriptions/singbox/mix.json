@@ -339,7 +339,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 4",
                 "❔XX | 🔴 | vless | @ServerNett | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 8",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 11",
+                "🇫🇮FI | 🔴 | vless | @ServerNett | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
@@ -534,6 +534,8 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 40",
                 "❔XX | 🔴 | vless | @kingofilter | 41",
                 "🇳🇱NL | 🔴 | vless | @kingofilter | 42",
+                "🇮🇷IR | 🔴 | vless | @kingofilter | 45",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 46",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "❔XX | 🟢 | vless | @SvnTeam | 1",
@@ -788,7 +790,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 4",
                 "❔XX | 🔴 | vless | @ServerNett | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 8",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 11",
+                "🇫🇮FI | 🔴 | vless | @ServerNett | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
@@ -983,6 +985,8 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 40",
                 "❔XX | 🔴 | vless | @kingofilter | 41",
                 "🇳🇱NL | 🔴 | vless | @kingofilter | 42",
+                "🇮🇷IR | 🔴 | vless | @kingofilter | 45",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 46",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "❔XX | 🟢 | vless | @SvnTeam | 1",
@@ -6022,7 +6026,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 11",
+            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 11",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
@@ -11059,6 +11063,51 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @kingofilter | 45",
+            "type": "vless",
+            "server": "85.133.206.197",
+            "server_port": 14000,
+            "uuid": "51b73782-3536-48d7-b125-9e3f48c4052f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 46",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "6babb657-1524-43bb-b421-11bda27bc9de",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "gpt.smatiz.info",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/salaam",
+                "headers": {
+                    "Host": "gpt.smatiz.info"
+                }
             }
         },
         {
