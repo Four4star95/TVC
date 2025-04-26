@@ -148,8 +148,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 372",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 373",
                 "❔XX | 🔴 | vless | @proxystore11 | 12",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -218,8 +218,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 372",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 373",
                 "❔XX | 🔴 | vless | @proxystore11 | 12",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -1232,7 +1232,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 372",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1263,7 +1263,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 373",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2096,
