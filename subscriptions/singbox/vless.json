@@ -391,7 +391,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 312",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 314",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 315",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 316",
                 "🇬🇧GB | 🔴 | vless | @DailyV2RY | 317",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 318",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
@@ -772,7 +772,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 312",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 314",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 315",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 316",
                 "🇬🇧GB | 🔴 | vless | @DailyV2RY | 317",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 318",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
@@ -7478,7 +7478,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
+            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 316",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
