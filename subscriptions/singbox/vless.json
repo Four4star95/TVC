@@ -135,13 +135,13 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 7",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 6",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "❔XX | 🔴 | vless | @ipV2Ray | 7",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
@@ -226,7 +226,7 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 2",
+                "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
@@ -518,13 +518,13 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 7",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 6",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "❔XX | 🔴 | vless | @ipV2Ray | 7",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
@@ -609,7 +609,7 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 2",
+                "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
@@ -1396,7 +1396,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -1424,7 +1424,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -1438,7 +1438,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -1480,7 +1480,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -3285,7 +3285,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
