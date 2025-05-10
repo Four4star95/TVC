@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 40",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
-                "🇺🇸US | 🔴 | vless | @v2_team | 2",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 2",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 14",
@@ -179,7 +179,7 @@
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 40",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
-                "🇺🇸US | 🔴 | vless | @v2_team | 2",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 2",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 14",
@@ -299,7 +299,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 2",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 2",
             "type": "vless",
             "server": "172.67.73.163",
             "server_port": 80,
