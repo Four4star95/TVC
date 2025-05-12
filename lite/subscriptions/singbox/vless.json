@@ -153,10 +153,11 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🇨🇾CY | 🔴 | vless | @free1_vpn | 10",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 14",
-                "❔XX | 🔴 | vless | @flyv2ray | 15",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
+                "❔XX | 🔴 | vless | @flyv2ray | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇳🇱NL | 🔴 | vless | @kingofilter | 16",
@@ -220,10 +221,11 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🇨🇾CY | 🔴 | vless | @free1_vpn | 10",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 14",
-                "❔XX | 🔴 | vless | @flyv2ray | 15",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
+                "❔XX | 🔴 | vless | @flyv2ray | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇳🇱NL | 🔴 | vless | @kingofilter | 16",
@@ -1378,6 +1380,37 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
+            "type": "vless",
+            "server": "172.67.204.84",
+            "server_port": 443,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ipsychO.SUEx12.Ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/re5IzbZ9IZZMddtw?ed=2560",
+                "headers": {
+                    "Host": "ipsychO.SUEx12.Ir"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
@@ -1428,7 +1461,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 80,
@@ -1449,7 +1482,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @flyv2ray | 15",
+            "tag": "❔XX | 🔴 | vless | @flyv2ray | 16",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
