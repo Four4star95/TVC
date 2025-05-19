@@ -430,7 +430,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇫🇮FI | 🔴 | vless | @flyv2ray | 0",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
+                "🇫🇮FI | 🔴 | vless | @flyv2ray | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 3",
@@ -800,7 +800,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇫🇮FI | 🔴 | vless | @flyv2ray | 0",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
+                "🇫🇮FI | 🔴 | vless | @flyv2ray | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 3",
@@ -8496,7 +8496,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
+            "tag": "🇫🇮FI | 🔴 | vless | @flyv2ray | 1",
             "type": "vless",
             "server": "32232334.web-manage.com.tr",
             "server_port": 1519,
