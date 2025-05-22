@@ -153,7 +153,7 @@
                 "❔XX | 🟢 | vless | @ipV2Ray | 6",
                 "❔XX | 🟢 | vless | @ipV2Ray | 7",
                 "❔XX | 🟢 | vless | @ipV2Ray | 8",
-                "❔XX | 🟢 | vless | @ipV2Ray | 9",
+                "🇩🇪DE | 🟢 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 2",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 5",
@@ -467,9 +467,7 @@
                 "🇯🇵JP | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
                 "🚩CF | 🔴 | vless | @fnet00 | 0",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
                 "🇷🇺RU | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
@@ -572,7 +570,7 @@
                 "❔XX | 🟢 | vless | @ipV2Ray | 6",
                 "❔XX | 🟢 | vless | @ipV2Ray | 7",
                 "❔XX | 🟢 | vless | @ipV2Ray | 8",
-                "❔XX | 🟢 | vless | @ipV2Ray | 9",
+                "🇩🇪DE | 🟢 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 2",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 5",
@@ -886,9 +884,7 @@
                 "🇯🇵JP | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
                 "🚩CF | 🔴 | vless | @fnet00 | 0",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
                 "🇷🇺RU | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
@@ -2032,7 +2028,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @ipV2Ray | 9",
+            "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "Tabriz-Website.acveo.ir",
             "server_port": 443,
@@ -9463,40 +9459,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
-            "type": "vmess",
-            "server": "141.193.213.65",
-            "server_port": 443,
-            "uuid": "c21b972a-bc92-4f8c-8e6a-6868001f7f88",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "141.193.213.65",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/images",
-                "headers": {
-                    "Host": "141.193.213.65"
-                }
-            }
-        },
-        {
             "tag": "🚩CF | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "104.16.14.1",
@@ -9524,27 +9486,6 @@
                 "path": "\/iqySBCJZh3v7AmTx?ed=2560",
                 "headers": {
                     "Host": "5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
-            "type": "vless",
-            "server": "162.19.228.119",
-            "server_port": 80,
-            "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/http",
-                "headers": {
-                    "Host": "162.19.228.119"
                 }
             }
         },
