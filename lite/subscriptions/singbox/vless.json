@@ -145,7 +145,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 17",
+                "🇨🇦CA | 🔴 | vless | @VmessProtocol | 17",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 358",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 359",
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 1",
@@ -208,7 +208,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 17",
+                "🇨🇦CA | 🔴 | vless | @VmessProtocol | 17",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 358",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 359",
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 1",
@@ -1222,7 +1222,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @VmessProtocol | 17",
             "type": "vless",
             "server": "104.17.128.1",
             "server_port": 2096,
