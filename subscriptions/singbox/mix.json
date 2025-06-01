@@ -489,8 +489,7 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vless | @free1_vpn | 6",
-                "🇳🇱NL | 🔴 | vless | @free1_vpn | 9",
+                "🇺🇸US | 🟢 | vless | @free1_vpn | 7",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
@@ -536,11 +535,11 @@
                 "🇺🇸US | 🟢 | ss | @kingofilter | 7",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
-                "❔XX | 🟢 | vless | @SvnTeam | 1",
-                "❔XX | 🟢 | vless | @SvnTeam | 2",
-                "❔XX | 🟢 | vless | @SvnTeam | 4",
-                "❔XX | 🟢 | vless | @SvnTeam | 5",
-                "❔XX | 🟢 | vless | @SvnTeam | 6",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 2",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 4",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 1",
@@ -935,8 +934,7 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vless | @free1_vpn | 6",
-                "🇳🇱NL | 🔴 | vless | @free1_vpn | 9",
+                "🇺🇸US | 🟢 | vless | @free1_vpn | 7",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
@@ -982,11 +980,11 @@
                 "🇺🇸US | 🟢 | ss | @kingofilter | 7",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
-                "❔XX | 🟢 | vless | @SvnTeam | 1",
-                "❔XX | 🟢 | vless | @SvnTeam | 2",
-                "❔XX | 🟢 | vless | @SvnTeam | 4",
-                "❔XX | 🟢 | vless | @SvnTeam | 5",
-                "❔XX | 🟢 | vless | @SvnTeam | 6",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 2",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 4",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
+                "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 1",
@@ -10112,7 +10110,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @free1_vpn | 6",
+            "tag": "🇺🇸US | 🟢 | vless | @free1_vpn | 7",
             "type": "vless",
             "server": "15.204.165.177",
             "server_port": 443,
@@ -10132,27 +10130,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @free1_vpn | 9",
-            "type": "vless",
-            "server": "45.131.5.211",
-            "server_port": 80,
-            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram-@V2ray_Alpha\/?ed=2560",
-                "headers": {
-                    "Host": "45.131.5.211"
                 }
             }
         },
@@ -11423,7 +11400,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @SvnTeam | 1",
+            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -11452,7 +11429,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @SvnTeam | 2",
+            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 2",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -11481,7 +11458,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @SvnTeam | 4",
+            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 4",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -11510,7 +11487,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @SvnTeam | 5",
+            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -11539,7 +11516,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @SvnTeam | 6",
+            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
