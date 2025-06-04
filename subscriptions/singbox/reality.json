@@ -132,7 +132,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "❔XX | 🟢 | vless | @DailyV2RY | 264",
                 "❔XX | 🟢 | vless | @DailyV2RY | 265",
-                "❔XX | 🟢 | vless | @DailyV2RY | 266",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
                 "❔XX | 🟢 | vless | @DailyV2RY | 267",
                 "❔XX | 🟢 | vless | @DailyV2RY | 268",
                 "❔XX | 🟢 | vless | @DailyV2RY | 269",
@@ -148,7 +148,7 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 279",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
-                "❔XX | 🔴 | vless | @free1_vpn | 10",
+                "❔XX | 🔴 | vless | @free1_vpn | 8",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -203,7 +203,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "❔XX | 🟢 | vless | @DailyV2RY | 264",
                 "❔XX | 🟢 | vless | @DailyV2RY | 265",
-                "❔XX | 🟢 | vless | @DailyV2RY | 266",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
                 "❔XX | 🟢 | vless | @DailyV2RY | 267",
                 "❔XX | 🟢 | vless | @DailyV2RY | 268",
                 "❔XX | 🟢 | vless | @DailyV2RY | 269",
@@ -219,7 +219,7 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 279",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
-                "❔XX | 🔴 | vless | @free1_vpn | 10",
+                "❔XX | 🔴 | vless | @free1_vpn | 8",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -1137,7 +1137,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 266",
+            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
             "type": "vless",
             "server": "v18.vxlimir.com",
             "server_port": 1370,
@@ -1601,7 +1601,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free1_vpn | 10",
+            "tag": "❔XX | 🔴 | vless | @free1_vpn | 8",
             "type": "vless",
             "server": "p9.punchline.ir",
             "server_port": 29570,
