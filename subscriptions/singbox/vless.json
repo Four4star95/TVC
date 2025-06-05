@@ -391,7 +391,7 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 267",
                 "❔XX | 🟢 | vless | @DailyV2RY | 268",
                 "❔XX | 🟢 | vless | @DailyV2RY | 269",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 270",
+                "❔XX | 🟢 | vless | @DailyV2RY | 270",
                 "❔XX | 🟢 | vless | @DailyV2RY | 271",
                 "❔XX | 🟢 | vless | @DailyV2RY | 272",
                 "❔XX | 🟢 | vless | @DailyV2RY | 273",
@@ -400,7 +400,7 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 276",
                 "❔XX | 🟢 | vless | @DailyV2RY | 277",
                 "❔XX | 🟢 | vless | @DailyV2RY | 278",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 279",
+                "❔XX | 🟢 | vless | @DailyV2RY | 279",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
@@ -750,7 +750,7 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 267",
                 "❔XX | 🟢 | vless | @DailyV2RY | 268",
                 "❔XX | 🟢 | vless | @DailyV2RY | 269",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 270",
+                "❔XX | 🟢 | vless | @DailyV2RY | 270",
                 "❔XX | 🟢 | vless | @DailyV2RY | 271",
                 "❔XX | 🟢 | vless | @DailyV2RY | 272",
                 "❔XX | 🟢 | vless | @DailyV2RY | 273",
@@ -759,7 +759,7 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 276",
                 "❔XX | 🟢 | vless | @DailyV2RY | 277",
                 "❔XX | 🟢 | vless | @DailyV2RY | 278",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 279",
+                "❔XX | 🟢 | vless | @DailyV2RY | 279",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
@@ -7733,7 +7733,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 270",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 270",
             "type": "vless",
             "server": "v01.vxlimir.com",
             "server_port": 1370,
@@ -7994,7 +7994,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 279",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 279",
             "type": "vless",
             "server": "v21.vxlimir.com",
             "server_port": 1370,
