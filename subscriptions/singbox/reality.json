@@ -128,7 +128,7 @@
                 "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "❔XX | 🟢 | vless | @DailyV2RY | 232",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 233",
+                "❔XX | 🟢 | vless | @DailyV2RY | 233",
                 "❔XX | 🟢 | vless | @DailyV2RY | 234",
                 "❔XX | 🟢 | vless | @DailyV2RY | 235",
                 "❔XX | 🟢 | vless | @DailyV2RY | 236",
@@ -138,7 +138,7 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 240",
                 "❔XX | 🟢 | vless | @DailyV2RY | 241",
                 "❔XX | 🟢 | vless | @DailyV2RY | 242",
-                "❔XX | 🟢 | vless | @DailyV2RY | 243",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 243",
                 "❔XX | 🟢 | vless | @DailyV2RY | 244",
                 "❔XX | 🟢 | vless | @DailyV2RY | 245",
                 "❔XX | 🟢 | vless | @DailyV2RY | 246",
@@ -197,7 +197,7 @@
                 "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "❔XX | 🟢 | vless | @DailyV2RY | 232",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 233",
+                "❔XX | 🟢 | vless | @DailyV2RY | 233",
                 "❔XX | 🟢 | vless | @DailyV2RY | 234",
                 "❔XX | 🟢 | vless | @DailyV2RY | 235",
                 "❔XX | 🟢 | vless | @DailyV2RY | 236",
@@ -207,7 +207,7 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 240",
                 "❔XX | 🟢 | vless | @DailyV2RY | 241",
                 "❔XX | 🟢 | vless | @DailyV2RY | 242",
-                "❔XX | 🟢 | vless | @DailyV2RY | 243",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 243",
                 "❔XX | 🟢 | vless | @DailyV2RY | 244",
                 "❔XX | 🟢 | vless | @DailyV2RY | 245",
                 "❔XX | 🟢 | vless | @DailyV2RY | 246",
@@ -1003,7 +1003,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 233",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 233",
             "type": "vless",
             "server": "v19.vxlimir.com",
             "server_port": 1370,
@@ -1293,7 +1293,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 243",
+            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 243",
             "type": "vless",
             "server": "v02.vxlimir.com",
             "server_port": 1370,
