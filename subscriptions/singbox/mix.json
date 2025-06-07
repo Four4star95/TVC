@@ -441,12 +441,12 @@
                 "🚩CF | 🔴 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 13",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 248",
+                "❔XX | 🟢 | vless | @DailyV2RY | 248",
                 "❔XX | 🟢 | vless | @DailyV2RY | 249",
                 "❔XX | 🟢 | vless | @DailyV2RY | 250",
                 "❔XX | 🟢 | vless | @DailyV2RY | 251",
                 "❔XX | 🟢 | vless | @DailyV2RY | 252",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 253",
+                "❔XX | 🟢 | vless | @DailyV2RY | 253",
                 "❔XX | 🟢 | vless | @DailyV2RY | 254",
                 "❔XX | 🟢 | vless | @DailyV2RY | 255",
                 "❔XX | 🟢 | vless | @DailyV2RY | 256",
@@ -462,6 +462,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -875,12 +876,12 @@
                 "🚩CF | 🔴 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 13",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 248",
+                "❔XX | 🟢 | vless | @DailyV2RY | 248",
                 "❔XX | 🟢 | vless | @DailyV2RY | 249",
                 "❔XX | 🟢 | vless | @DailyV2RY | 250",
                 "❔XX | 🟢 | vless | @DailyV2RY | 251",
                 "❔XX | 🟢 | vless | @DailyV2RY | 252",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 253",
+                "❔XX | 🟢 | vless | @DailyV2RY | 253",
                 "❔XX | 🟢 | vless | @DailyV2RY | 254",
                 "❔XX | 🟢 | vless | @DailyV2RY | 255",
                 "❔XX | 🟢 | vless | @DailyV2RY | 256",
@@ -896,6 +897,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -8610,7 +8612,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 248",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 248",
             "type": "vless",
             "server": "v20.vxlimir.com",
             "server_port": 1370,
@@ -8755,7 +8757,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 253",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 253",
             "type": "vless",
             "server": "v05.vxlimir.com",
             "server_port": 1370,
@@ -9203,6 +9205,27 @@
                     "enabled": true,
                     "public_key": "y7msPZW4eWBT4CJ5v_blgiXUd06HuKvTs3rhlpw9fnk",
                     "short_id": "0570"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
+            "type": "vless",
+            "server": "nwarne.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "999ede55-0aaa-4b54-9dad-c2abe0188940",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/de?ed=1048",
+                "headers": {
+                    "Host": "nwarne.fast.hosting-ip.com"
                 }
             }
         },
