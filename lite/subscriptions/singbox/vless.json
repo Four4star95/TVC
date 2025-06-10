@@ -147,7 +147,7 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
@@ -221,7 +221,7 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
@@ -1244,7 +1244,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
             "type": "vless",
             "server": "104.17.214.22",
             "server_port": 443,
