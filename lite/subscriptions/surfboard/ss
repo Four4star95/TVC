@@ -11,12 +11,13 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 19 = ss, 203.23.128.33, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🇺🇸US | 🟢 | ss | @VmessProtocol | 12 = ss, 45.87.175.35, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18 = ss, mx2.drawnrisha.one, 55988, encrypt-method = chacha20-ietf-poly1305, password = tRVH6ZVjtjWCvREPvSgTx6jwmensa6of9w26NwnZ5n1V3bWeNBsq2A86K3RWGRyjA89Tqibnri4HuDtvE24KU2Sb65RUeVJz
+🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 19 = ss, mx2.drawnrisha.one, 55988, encrypt-method = chacha20-ietf-poly1305, password = GaKXVig9GWGeCeTvSv3npvU3qYCgbbAMypPQUY9Wm9xJTNCQGCCGKcpg4vYeH6AxwYNY4mLqKrBWvoyNb43CGU3d1sd8tfRp
+🇺🇸US | 🟢 | ss | @VmessProtocol | 10 = ss, 45.87.175.35, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 19,🇺🇸US | 🟢 | ss | @VmessProtocol | 12
-URL-TEST = url-test,🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 19,🇺🇸US | 🟢 | ss | @VmessProtocol | 12
-FALLBACK = fallback,🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 19,🇺🇸US | 🟢 | ss | @VmessProtocol | 12
+MANUAL = select,URL-TEST,FALLBACK,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 19,🇺🇸US | 🟢 | ss | @VmessProtocol | 10
+URL-TEST = url-test,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 19,🇺🇸US | 🟢 | ss | @VmessProtocol | 10
+FALLBACK = fallback,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 19,🇺🇸US | 🟢 | ss | @VmessProtocol | 10
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL

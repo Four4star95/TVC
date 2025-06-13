@@ -106,16 +106,18 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 19",
-                "🇺🇸US | 🟢 | ss | @VmessProtocol | 12"
+                "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18",
+                "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 19",
+                "🇺🇸US | 🟢 | ss | @VmessProtocol | 10"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 19",
-                "🇺🇸US | 🟢 | ss | @VmessProtocol | 12"
+                "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18",
+                "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 19",
+                "🇺🇸US | 🟢 | ss | @VmessProtocol | 10"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -138,17 +140,27 @@
             "type": "dns"
         },
         {
-            "tag": "🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 19",
+            "tag": "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18",
             "type": "shadowsocks",
-            "server": "203.23.128.33",
-            "server_port": 990,
+            "server": "mx2.drawnrisha.one",
+            "server_port": 55988,
             "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3",
+            "password": "tRVH6ZVjtjWCvREPvSgTx6jwmensa6of9w26NwnZ5n1V3bWeNBsq2A86K3RWGRyjA89Tqibnri4HuDtvE24KU2Sb65RUeVJz",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @VmessProtocol | 12",
+            "tag": "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 19",
+            "type": "shadowsocks",
+            "server": "mx2.drawnrisha.one",
+            "server_port": 55988,
+            "method": "chacha20-ietf-poly1305",
+            "password": "GaKXVig9GWGeCeTvSv3npvU3qYCgbbAMypPQUY9Wm9xJTNCQGCCGKcpg4vYeH6AxwYNY4mLqKrBWvoyNb43CGU3d1sd8tfRp",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | ss | @VmessProtocol | 10",
             "type": "shadowsocks",
             "server": "45.87.175.35",
             "server_port": 8080,
