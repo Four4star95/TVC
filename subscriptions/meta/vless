@@ -311,10 +311,10 @@ proxies:
   - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 0","type":"vless","server":"speedvpnx.smartphone1.top","port":2053,"udp":false,"uuid":"18f98048-7d8a-4f10-b82c-a4649699c00a","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 1","type":"vless","server":"all2.golnar-clod.ir","port":8880,"udp":false,"uuid":"862873ea-4ea7-4207-b8d3-8f3c440f0afc","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 2","type":"vless","server":"Mori.fastly80.hosting-ip.com","port":80,"udp":false,"uuid":"c7dbb313-ee7c-4536-b59b-4a5717fe5b51","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"speedtest.net.pl"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 3","type":"vless","server":"mtn.ivy-net.ir","port":8080,"udp":false,"uuid":"8960c969-eebb-4b5a-b480-4662e51893ca","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇨🇦CA | 🔴 | vless | @flyv2ray | 3","type":"vless","server":"mtn.ivy-net.ir","port":8080,"udp":false,"uuid":"8960c969-eebb-4b5a-b480-4662e51893ca","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 4","type":"vless","server":"irnetsell.yellowsky.ir","port":80,"udp":false,"uuid":"79a71706-cebe-428b-a70d-d6a7b9173b6e","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 5","type":"vless","server":"tamizokatamizveryclearifiedtamiz.ivy-net.ir","port":8080,"udp":false,"uuid":"a5944f30-eeb5-4f56-8bfe-dd8ae7377fa0","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 8","type":"vless","server":"Arx.fast.hosting-ip.com","port":80,"udp":false,"uuid":"9f354bee-82d6-49df-a82e-57533d49556f","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
+  - {"name":"🇮🇹IT | 🔴 | vless | @flyv2ray | 8","type":"vless","server":"Arx.fast.hosting-ip.com","port":80,"udp":false,"uuid":"9f354bee-82d6-49df-a82e-57533d49556f","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇮🇹IT | 🔴 | vless | @flyv2ray | 10","type":"vless","server":"pivaz.fastly80.hosting-ip.com","port":80,"udp":false,"uuid":"d70422cc-4f4a-4caa-b060-87fc836ee877","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 12","type":"vless","server":"speedtest.net","port":80,"udp":false,"uuid":"88664543-7868-4758-b4dc-523164edc65b","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @nofiltering2 | 2","type":"vless","server":"fast.v2sub.online","port":80,"udp":false,"uuid":"b7155dd2-eaac-4570-85b7-7138e7b45e49","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
@@ -531,10 +531,10 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 0'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 3'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
+      - '🇮🇹IT | 🔴 | vless | @flyv2ray | 8'
       - '🇮🇹IT | 🔴 | vless | @flyv2ray | 10'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 12'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 2'
@@ -751,10 +751,10 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 0'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 3'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
+      - '🇮🇹IT | 🔴 | vless | @flyv2ray | 8'
       - '🇮🇹IT | 🔴 | vless | @flyv2ray | 10'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 12'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 2'
@@ -970,10 +970,10 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 0'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 3'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
+      - '🇮🇹IT | 🔴 | vless | @flyv2ray | 8'
       - '🇮🇹IT | 🔴 | vless | @flyv2ray | 10'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 12'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 2'
