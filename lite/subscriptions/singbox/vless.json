@@ -122,7 +122,7 @@
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 0",
                 "🇺🇸US | 🔴 | vless | @vpn_xw | 0",
@@ -147,7 +147,7 @@
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 16",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 3",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
+                "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -194,7 +194,7 @@
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 0",
                 "🇺🇸US | 🔴 | vless | @vpn_xw | 0",
@@ -219,7 +219,7 @@
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 16",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 3",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
+                "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -629,7 +629,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1156,7 +1156,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 1",
             "type": "vless",
             "server": "myphotomoments.ir",
             "server_port": 2087,
