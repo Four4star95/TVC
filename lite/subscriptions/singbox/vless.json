@@ -111,7 +111,7 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
-                "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
+                "🇮🇳IN | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
@@ -183,7 +183,7 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
-                "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
+                "🇮🇳IN | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
@@ -367,7 +367,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
+            "tag": "🇮🇳IN | 🔴 | vless | @XsV2ray | 4",
             "type": "vless",
             "server": "video-streaming.comtent-delivery.poshtibani.4b3a.com",
             "server_port": 23410,
