@@ -135,7 +135,7 @@
                 "🇮🇹IT | 🔴 | vless | @V2rayNGn | 16",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 17",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 9",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 10",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 10",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 81",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 82",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
@@ -207,7 +207,7 @@
                 "🇮🇹IT | 🔴 | vless | @V2rayNGn | 16",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 17",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 9",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 10",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 10",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 81",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 82",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
@@ -887,7 +887,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
