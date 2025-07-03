@@ -122,7 +122,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
@@ -149,7 +149,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇨🇾CY | 🔴 | vless | @v2ray1_ng | 6",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
@@ -192,7 +192,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
@@ -219,7 +219,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇨🇾CY | 🔴 | vless | @v2ray1_ng | 6",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
@@ -603,7 +603,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1211,7 +1211,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
             "type": "vless",
             "server": "104.17.214.22",
             "server_port": 443,
