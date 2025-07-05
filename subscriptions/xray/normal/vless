@@ -136,9 +136,9 @@ vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?security=none&e
 vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @V2rayNGn | 9
 vless://BeFreeWithUs@151.101.3.8:80?path=/&security=none&encryption=none&host=befreewithus.net&type=ws#🇺🇸US | 🔴 | vless | @V2rayNGn | 11
 vless://@@BeFreeWithUs@speedtest.net:80?path=/&security=none&encryption=none&host=befreewithus.net&type=ws#🇺🇸US | 🔴 | vless | @V2rayNGn | 12
-vless://208a0bb7-180e-4acc-95f0-dbfa397f0fd4@all2.golnar-clod.ir:8880?path=/?ed=80&security=none&encryption=none&host=saraq.golnar-clod.ir&type=httpupgrade#🇨🇦CA | 🔴 | vless | @V2rayNGn | 13
+vless://208a0bb7-180e-4acc-95f0-dbfa397f0fd4@all2.golnar-clod.ir:8880?path=/?ed=80&security=none&encryption=none&host=saraq.golnar-clod.ir&type=httpupgrade#🇺🇸US | 🔴 | vless | @V2rayNGn | 13
 vless://b3bc00c6-d65b-4286-adc9-02134b37ae8d@dns8.mehrancloud.ir:34982?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @V2rayNGn | 14
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#🇺🇸US | 🔴 | vless | @V2rayNGn | 15
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#🇨🇦CA | 🔴 | vless | @V2rayNGn | 15
 vless://7c958fff-0615-4fb9-9c35-cb3dfaa4916d@cdnf.ten10rocket.top:80?path=/?ed=2048&security=none&encryption=none&host=iraneazad-with-me.ir&type=ws#🇮🇹IT | 🔴 | vless | @V2rayNGn | 16
 vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@2.fasttrade.blog:40665?path=/&security=none&encryption=none&type=ws#🇮🇷IR | 🔴 | vless | @V2rayNGn | 17
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?path=/?ed=2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#🚩CF | 🔴 | vless | @Outline_Vpn | 0
@@ -300,6 +300,8 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=/E4FqomT5e0m
 vless://6fda9ae4-c403-4238-b471-0fedd481b3d5@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=ip1uxj2s.ghasregallery.ir&type=ws&alpn=http/1.1&host=ip1uxj2s.ghasregallery.ir&path=/wss#🇺🇸US | 🔴 | vless | @DailyV2RY | 105
 vless://4bf96dd2-f451-4938-8fa4-1a2251290920@144.202.56.7:443?type=xhttp&path=/7uj65&host=&mode=stream-one&security=none#🇺🇸US | 🔴 | vless | @DailyV2RY | 106
 vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416?mode=gun&security=reality&encryption=none&pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&fp=chrome&spx=/&type=grpc&sni=sourceforge.net&sid=b3#🇩🇪DE | 🔴 | vless | @lrnbymaa | 0
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 0
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 1
 vless://deea9dec-8e01-41b6-b245-c565ff516d0b@vip1.proxystore11.news:2052?type=xhttp&path=/prx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=/#🇩🇪DE | 🔴 | vless | @proxystore11 | 1
 vless://56c78575-7596-4df0-9c24-cf8962d87ca7@vip1.proxystore11.news:2052?type=xhttp&path=/prx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=/#🇩🇪DE | 🔴 | vless | @proxystore11 | 3
 vless://b57a8005-df1b-4462-974b-5992d4c815f5@vip1.proxystore11.news:2052?type=xhttp&path=/prx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=/#🇩🇪DE | 🔴 | vless | @proxystore11 | 4
