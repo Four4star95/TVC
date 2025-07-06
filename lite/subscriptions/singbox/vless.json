@@ -147,9 +147,9 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 2",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 73",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 74",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 94",
+                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 95",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
@@ -214,9 +214,9 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 2",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 73",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 74",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 94",
+                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 95",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
@@ -1222,7 +1222,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
             "type": "vless",
             "server": "104.17.214.22",
             "server_port": 443,
@@ -1253,7 +1253,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 73",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 94",
             "type": "vless",
             "server": "144.202.49.95",
             "server_port": 443,
@@ -1267,7 +1267,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 74",
+            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 95",
             "type": "vless",
             "server": "spcmpkl14a-9199150242-direct.khastehnabashi.com",
             "server_port": 443,
