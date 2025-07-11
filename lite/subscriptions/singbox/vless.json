@@ -133,8 +133,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
                 "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 2",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 6",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 7",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 9",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 10",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -227,8 +227,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
                 "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 2",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 6",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 7",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 9",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 10",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -931,7 +931,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 6",
+            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 9",
             "type": "vless",
             "server": "royal26.starlinkz.cloud",
             "server_port": 31878,
@@ -945,7 +945,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 10",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 443,
@@ -2009,7 +2009,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
             "type": "vless",
-            "server": "104.16.53.11",
+            "server": "104.18.26.90",
             "server_port": 443,
             "uuid": "80d1fe59-60f4-4272-a280-820e1ef0a754",
             "flow": "",
@@ -2040,15 +2040,32 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
             "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 80,
-            "uuid": "ebab8eed-707e-4f0b-91ed-e83259d7167d",
+            "server": "104.16.53.11",
+            "server_port": 443,
+            "uuid": "80d1fe59-60f4-4272-a280-820e1ef0a754",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray",
+                "headers": {
+                    "Host": "pages.dev"
+                }
             }
         },
         {
