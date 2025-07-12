@@ -402,7 +402,6 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 5",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
                 "🚩CF | 🔴 | vless | @vmessorg | 7",
-                "🇳🇱NL | 🔴 | vless | @vmessorg | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 1",
                 "🇻🇳VN | 🔴 | vless | @v2rayNG_Matsuri | 2",
@@ -950,7 +949,6 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 5",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
                 "🚩CF | 🔴 | vless | @vmessorg | 7",
-                "🇳🇱NL | 🔴 | vless | @vmessorg | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 1",
                 "🇻🇳VN | 🔴 | vless | @v2rayNG_Matsuri | 2",
@@ -7461,20 +7459,6 @@
                 "headers": {
                     "Host": "104.18.26.90"
                 }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @vmessorg | 8",
-            "type": "vless",
-            "server": "good.srvice.shop",
-            "server_port": 2020,
-            "uuid": "2466eb01-4400-4281-9c1a-1cb96f9a5083",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
