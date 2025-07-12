@@ -142,7 +142,7 @@
                 "🇩🇪DE | 🔴 | vless | @Capoit | 4",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 4",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
-                "🚩CF | 🔴 | vless | @vpn_go67 | 8",
+                "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 10",
                 "❔XX | 🔴 | vless | @vpn_go67 | 11",
@@ -201,7 +201,7 @@
                 "🇩🇪DE | 🔴 | vless | @Capoit | 4",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 4",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
-                "🚩CF | 🔴 | vless | @vpn_go67 | 8",
+                "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 10",
                 "❔XX | 🔴 | vless | @vpn_go67 | 11",
@@ -1382,7 +1382,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vpn_go67 | 8",
+            "tag": "❔XX | 🔴 | vless | @vpn_go67 | 8",
             "type": "vless",
             "server": "footlo.argha-v2pedia.monster",
             "server_port": 443,
