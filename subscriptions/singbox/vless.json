@@ -256,7 +256,7 @@
                 "🇮🇷IR | 🔴 | vless | @rxv2ray | 15",
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 2",
-                "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 3",
+                "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 3",
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 4",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 6",
@@ -275,7 +275,7 @@
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 19",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 20",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 21",
-                "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 22",
+                "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 22",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 2",
@@ -799,7 +799,7 @@
                 "🇮🇷IR | 🔴 | vless | @rxv2ray | 15",
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 2",
-                "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 3",
+                "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 3",
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 4",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 6",
@@ -818,7 +818,7 @@
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 19",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 20",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 21",
-                "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 22",
+                "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 22",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 2",
@@ -4497,7 +4497,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 3",
             "type": "vless",
             "server": "Pishgam.sdcards.ir",
             "server_port": 2052,
@@ -4777,7 +4777,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 22",
+            "tag": "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 22",
             "type": "vless",
             "server": "pishgam.sdcards.ir",
             "server_port": 2082,

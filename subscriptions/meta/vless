@@ -209,7 +209,7 @@ proxies:
   - {"name":"🇮🇷IR | 🔴 | vless | @rxv2ray | 15","type":"vless","server":"nv163.momdping.com","port":443,"udp":false,"uuid":"d99c54fb-2cba-4b0e-b140-beee2fd6ea7b","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"nv163.momdping.com","ws-opts":{"path":"/"}}
   - {"name":"🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0","type":"vless","server":"94.183.233.116","port":3801,"udp":false,"uuid":"34dc5416-0787-4f5d-9774-47a55018806f","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 2","type":"vless","server":"Pishgam.sdcards.ir","port":2052,"udp":false,"uuid":"c064beef-8d03-47a7-9306-5affa589fbc1","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER?ed=2087","headers":{"host":"amiri2.server-dev2.ir"}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 3","type":"vless","server":"Pishgam.sdcards.ir","port":2052,"udp":false,"uuid":"1a36bf60-47d6-4fc0-a5b6-4e8864f70a54","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER?ed=2087","headers":{"host":"amiri2.server-dev2.ir"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 3","type":"vless","server":"Pishgam.sdcards.ir","port":2052,"udp":false,"uuid":"1a36bf60-47d6-4fc0-a5b6-4e8864f70a54","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER?ed=2087","headers":{"host":"amiri2.server-dev2.ir"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 4","type":"vless","server":"185.215.228.90","port":20118,"udp":false,"uuid":"142dd8b5-0b9e-4018-a961-2370d50cc435","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 5","type":"vless","server":"91.99.130.239","port":443,"udp":false,"uuid":"7a66b8ef-9713-4b69-b839-6bb45070af35","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 6","type":"vless","server":"91.99.205.10","port":443,"udp":false,"uuid":"153ee04c-dcc1-4ef8-a146-8fb31cec1f48","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -638,7 +638,7 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @rxv2ray | 15'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0'
       - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 2'
-      - '🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 3'
+      - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 3'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 4'
       - '🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 5'
       - '🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 6'
@@ -1067,7 +1067,7 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @rxv2ray | 15'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0'
       - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 2'
-      - '🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 3'
+      - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 3'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 4'
       - '🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 5'
       - '🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 6'
@@ -1495,7 +1495,7 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @rxv2ray | 15'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0'
       - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 2'
-      - '🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 3'
+      - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 3'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 4'
       - '🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 5'
       - '🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 6'
