@@ -166,7 +166,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 20",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 186",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 187",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 187",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
@@ -260,7 +260,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 20",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 186",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 187",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 187",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
@@ -1711,7 +1711,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 187",
+            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 187",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 443,
