@@ -654,7 +654,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/65d5900a-b16c-47c0-d749-50f9d0a5cb7e@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🇺🇸US%20|%20🔴%20|%20vless%20|%20@melov2ray%20|%201"
+        "config": "vless:\/\/65d5900a-b16c-47c0-d749-50f9d0a5cb7e@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@melov2ray%20|%201"
     },
     {
         "channel": {
@@ -726,7 +726,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@melov2ray%20|%2013"
+        "config": "vless:\/\/9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🇺🇸US%20|%20🔴%20|%20vless%20|%20@melov2ray%20|%2013"
     },
     {
         "channel": {
@@ -924,7 +924,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2013"
+        "config": "vless:\/\/6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2013"
     },
     {
         "channel": {
@@ -3012,7 +3012,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/ce7882f8-059e-482a-8df9-a64da1bc443c@elipii2.digi-elipii.ir:80?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=google.com&headerType=http&fp=firefox&type=tcp&sni=digi-elipii.ir#🇮🇷IR%20|%20🟢%20|%20vless%20|%20@customv2ray%20|%202"
+        "config": "vless:\/\/ce7882f8-059e-482a-8df9-a64da1bc443c@elipii2.digi-elipii.ir:80?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=google.com&headerType=http&fp=firefox&type=tcp&sni=digi-elipii.ir#🇫🇷FR%20|%20🟢%20|%20vless%20|%20@customv2ray%20|%202"
     },
     {
         "channel": {
@@ -3021,7 +3021,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=%2Faom9TKCuG9Ci6Xf1%2FMTg1LjE4OC4xNDcuNzk&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SIMowebSITespeedTESt.ir#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@customv2ray%20|%203"
+        "config": "vless:\/\/289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=%2Faom9TKCuG9Ci6Xf1%2FMTg1LjE4OC4xNDcuNzk&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SIMowebSITespeedTESt.ir#🇺🇸US%20|%20🔴%20|%20vless%20|%20@customv2ray%20|%203"
     },
     {
         "channel": {
@@ -3804,7 +3804,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.5.G.mehpow.iR.&type=ws#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@v2ray_swhil%20|%2040"
+        "config": "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.5.G.mehpow.iR.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2ray_swhil%20|%2040"
     },
     {
         "channel": {
@@ -4704,7 +4704,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6InMzLmNuLWRiLnRvcCIsInBvcnQiOiIyMDg2IiwidHlwZSI6ImF1dG8iLCJpZCI6IjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIxMDAtMjM3LTU5LTE1NC5zMy5jbi1kYi50b3AiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAwIn0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE5Mi43NC4yNDIuMjE0IiwicG9ydCI6IjMwMDA0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE4NzExNjE3IiwiaG9zdCI6Ind3dy4yODYyMDQ0OS54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAwIn0="
     },
     {
         "channel": {
@@ -4713,7 +4713,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEzNy4xNzUuNDIuMjAyIiwicG9ydCI6IjM3MDA5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE4ODQ5NTEyIiwiaG9zdCI6Ind3dy4zMjM0OTc4Mi54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAxIn0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6InMyLmRiLWxpbmswMi50b3AiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9kYWJhaS5pbjEwNC4yNC4xMTQuMTY1IiwiaG9zdCI6IjEwMC05LTg5LTkyLnMyLmRiLWxpbmswMi50b3AiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAxIn0="
     },
     {
         "channel": {
@@ -4722,7 +4722,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE0Mi4xNzEuMjQuNDIiLCJwb3J0IjoiMzEwMDUiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3BhdGhcLzE3MzY0MTYzNDU0ODYiLCJob3N0Ijoid3d3Ljc3NjMyODQ5Lnh5eiIsInRscyI6InRscyIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDIifQ=="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE0MS4xOTUuMTEyLjE2NyIsInBvcnQiOiIyNzY4MSIsInR5cGUiOiJub25lIiwiaWQiOiIxY2M1OWEzYS05NjI1LTQwZjctYjBlNi1lMjMzMjg2YWU4MmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDQSB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgMiJ9"
     },
     {
         "channel": {
@@ -4731,7 +4731,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEwNC4xNi4xNTUuMTAiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9kYWJhaS5pbjEwNC4yNS4xNzUuMTM3IiwiaG9zdCI6IjEwMC0xMDItMjQ3LTkyLnMxLmRiLWxpbmswMi50b3AiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAzIn0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjM4LjMzLjQ0LjI3IiwicG9ydCI6IjM4MDAzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE1Njc1MDM0IiwiaG9zdCI6Ind3dy42Mzg1NTQ1NC54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAzIn0="
     },
     {
         "channel": {
@@ -4740,7 +4740,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6Ijc0LjQ4Ljc5LjkyIiwicG9ydCI6IjM3MDA1IiwidHlwZSI6Im5vbmUiLCJpZCI6ImE5YWJmM2U3LTg3ZjQtNDczZC04ZDAzLTJmMjZjYTRiMzU4MyIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE4ODQ5NTEyIiwiaG9zdCI6Ind3dy41MjA1NzQwOS54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA0In0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6InMzLmNuLWRiLnRvcCIsInBvcnQiOiIyMDg2IiwidHlwZSI6ImF1dG8iLCJpZCI6IjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIxMDAtMjM3LTU5LTE1NC5zMy5jbi1kYi50b3AiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA0In0="
     },
     {
         "channel": {
@@ -4749,7 +4749,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjM4LjMzLjU1LjgzIiwicG9ydCI6IjM3MDAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE1NjU3MDc2IiwiaG9zdCI6Ind3dy42ODU4NDE1OC54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA1In0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEzNy4xNzUuNDIuMjAyIiwicG9ydCI6IjM3MDA5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE4ODQ5NTEyIiwiaG9zdCI6Ind3dy4zMjM0OTc4Mi54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA1In0="
     },
     {
         "channel": {
@@ -4758,7 +4758,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE5Mi43NC4yNDIuMjMzIiwicG9ydCI6IjM4MDA0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE1Njc1MDM0IiwiaG9zdCI6Ind3dy43MDc3ODU5OC54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA2In0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE0Mi4xNzEuMjQuNDIiLCJwb3J0IjoiMzEwMDUiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3BhdGhcLzE3MzY0MTYzNDU0ODYiLCJob3N0Ijoid3d3Ljc3NjMyODQ5Lnh5eiIsInRscyI6InRscyIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDYifQ=="
     },
     {
         "channel": {
@@ -4767,7 +4767,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE5Mi43NC4yNDIuMjQyIiwicG9ydCI6IjM4MDAzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE1Njc1MDM0IiwiaG9zdCI6Ind3dy42MjgxMzIzNC54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA3In0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEwNC4xNi4xNTUuMTAiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9kYWJhaS5pbjEwNC4yNS4xNzUuMTM3IiwiaG9zdCI6IjEwMC0xMDItMjQ3LTkyLnMxLmRiLWxpbmswMi50b3AiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA3In0="
     },
     {
         "channel": {
@@ -4776,7 +4776,16 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEwNC4xNi4xNTUuMTAiLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9kYWJhaS5pbjEwNC4yMC4yNy4xMTUiLCJob3N0IjoiMTAwLTIwOS00Ny0xNDEuczIuZGItbGluazAyLnRvcCIsInRscyI6IiIsInBzIjoiXHVkODNkXHVkZWE5Q0YgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDgifQ=="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6Ijc0LjQ4Ljc5LjkyIiwicG9ydCI6IjM3MDA1IiwidHlwZSI6Im5vbmUiLCJpZCI6ImE5YWJmM2U3LTg3ZjQtNDczZC04ZDAzLTJmMjZjYTRiMzU4MyIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE4ODQ5NTEyIiwiaG9zdCI6Ind3dy41MjA1NzQwOS54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA4In0="
+    },
+    {
+        "channel": {
+            "username": " vmess ",
+            "title": null,
+            "logo": null
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjM4LjMzLjU1LjgzIiwicG9ydCI6IjM3MDAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzM2NDE1NjU3MDc2IiwiaG9zdCI6Ind3dy42ODU4NDE1OC54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA5In0="
     },
     {
         "channel": {
