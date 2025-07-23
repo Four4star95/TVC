@@ -106,9 +106,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 0",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 1",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 3",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 0",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 3",
                 "🚩CF | 🔴 | vless | @EliV2ray | 4",
                 "🚩CF | 🔴 | vless | @EliV2ray | 5",
                 "🚩CF | 🔴 | vless | @EliV2ray | 6",
@@ -526,7 +526,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🚩CF | 🔴 | vless | @Capoit | 0",
                 "🚩CF | 🔴 | vless | @Capoit | 1",
-                "🇬🇧GB | 🟢 | vless | @Capoit | 2",
+                "🇺🇸US | 🟢 | vless | @Capoit | 2",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 3",
                 "🚩CF | 🔴 | vless | @Capoit | 4",
                 "🇺🇸US | 🔴 | vless | @Capoit | 5",
@@ -623,9 +623,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 0",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 1",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 3",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 0",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 3",
                 "🚩CF | 🔴 | vless | @EliV2ray | 4",
                 "🚩CF | 🔴 | vless | @EliV2ray | 5",
                 "🚩CF | 🔴 | vless | @EliV2ray | 6",
@@ -1043,7 +1043,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🚩CF | 🔴 | vless | @Capoit | 0",
                 "🚩CF | 🔴 | vless | @Capoit | 1",
-                "🇬🇧GB | 🟢 | vless | @Capoit | 2",
+                "🇺🇸US | 🟢 | vless | @Capoit | 2",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 3",
                 "🚩CF | 🔴 | vless | @Capoit | 4",
                 "🇺🇸US | 🔴 | vless | @Capoit | 5",
@@ -1156,7 +1156,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 0",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 0",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1177,7 +1177,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1198,7 +1198,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 3",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -10510,7 +10510,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @Capoit | 2",
+            "tag": "🇺🇸US | 🟢 | vless | @Capoit | 2",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
