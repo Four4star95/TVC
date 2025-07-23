@@ -181,7 +181,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
-                "🇨🇦CA | 🔴 | vless | @fnet00 | 7",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 15",
                 "🇺🇸US | 🔴 | vless | @Capoit | 18",
@@ -282,7 +282,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
-                "🇨🇦CA | 🔴 | vless | @fnet00 | 7",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 15",
                 "🇺🇸US | 🔴 | vless | @Capoit | 18",
@@ -1940,7 +1940,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @fnet00 | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 7",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 80,
