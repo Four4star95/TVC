@@ -110,7 +110,7 @@
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 18",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
-                "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 18",
+                "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 19",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇷🇺RU | 🔴 | vless | @free1_vpn | 3",
@@ -132,7 +132,7 @@
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 18",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
-                "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 18",
+                "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 19",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇷🇺RU | 🔴 | vless | @free1_vpn | 3",
@@ -296,7 +296,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 18",
+            "tag": "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 19",
             "type": "vless",
             "server": "z.encoder.site",
             "server_port": 38131,
