@@ -113,7 +113,7 @@
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 14",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 15",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 16",
-                "🇱🇹LT | 🔴 | vless | @ARv2ray | 17",
+                "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 18",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 0",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 2",
@@ -140,7 +140,7 @@
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 0",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 1",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 2",
-                "🇸🇬SG | 🟢 | vless | @Capoit | 5",
+                "🇺🇸US | 🟢 | vless | @Capoit | 5",
                 "❔XX | 🔴 | vless | @Capoit | 13",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 14",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 17",
@@ -184,7 +184,7 @@
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 14",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 15",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 16",
-                "🇱🇹LT | 🔴 | vless | @ARv2ray | 17",
+                "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 18",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 0",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 2",
@@ -211,7 +211,7 @@
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 0",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 1",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 2",
-                "🇸🇬SG | 🟢 | vless | @Capoit | 5",
+                "🇺🇸US | 🟢 | vless | @Capoit | 5",
                 "❔XX | 🔴 | vless | @Capoit | 13",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 14",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 17",
@@ -502,7 +502,7 @@
             }
         },
         {
-            "tag": "🇱🇹LT | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "84.32.103.234",
             "server_port": 443,
@@ -1355,7 +1355,7 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🟢 | vless | @Capoit | 5",
+            "tag": "🇺🇸US | 🟢 | vless | @Capoit | 5",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
