@@ -106,30 +106,30 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 9",
-                "❔XX | 🟢 | ss | @vmess_vless_v2rayng | 0",
-                "❔XX | 🟢 | ss | @iP_CF | 16",
-                "❔XX | 🟢 | ss | @iP_CF | 17",
-                "❔XX | 🟢 | ss | @iP_CF | 18",
-                "❔XX | 🟢 | ss | @iP_CF | 19",
-                "❔XX | 🟢 | ss | @iP_CF | 20",
-                "❔XX | 🟢 | ss | @iP_CF | 21",
-                "❔XX | 🟢 | ss | @iP_CF | 26"
+                "🇺🇦UA | 🟢 | ss | @DeamNet_Proxy | 9",
+                "🇫🇮FI | 🟢 | ss | @vmess_vless_v2rayng | 0",
+                "🇺🇸US | 🟢 | ss | @iP_CF | 16",
+                "🇬🇧GB | 🟢 | ss | @iP_CF | 17",
+                "🇺🇸US | 🟢 | ss | @iP_CF | 18",
+                "🇬🇧GB | 🟢 | ss | @iP_CF | 19",
+                "🇺🇸US | 🟢 | ss | @iP_CF | 20",
+                "🇺🇸US | 🟢 | ss | @iP_CF | 21",
+                "🇳🇱NL | 🟢 | ss | @iP_CF | 26"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 9",
-                "❔XX | 🟢 | ss | @vmess_vless_v2rayng | 0",
-                "❔XX | 🟢 | ss | @iP_CF | 16",
-                "❔XX | 🟢 | ss | @iP_CF | 17",
-                "❔XX | 🟢 | ss | @iP_CF | 18",
-                "❔XX | 🟢 | ss | @iP_CF | 19",
-                "❔XX | 🟢 | ss | @iP_CF | 20",
-                "❔XX | 🟢 | ss | @iP_CF | 21",
-                "❔XX | 🟢 | ss | @iP_CF | 26"
+                "🇺🇦UA | 🟢 | ss | @DeamNet_Proxy | 9",
+                "🇫🇮FI | 🟢 | ss | @vmess_vless_v2rayng | 0",
+                "🇺🇸US | 🟢 | ss | @iP_CF | 16",
+                "🇬🇧GB | 🟢 | ss | @iP_CF | 17",
+                "🇺🇸US | 🟢 | ss | @iP_CF | 18",
+                "🇬🇧GB | 🟢 | ss | @iP_CF | 19",
+                "🇺🇸US | 🟢 | ss | @iP_CF | 20",
+                "🇺🇸US | 🟢 | ss | @iP_CF | 21",
+                "🇳🇱NL | 🟢 | ss | @iP_CF | 26"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -152,7 +152,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 9",
+            "tag": "🇺🇦UA | 🟢 | ss | @DeamNet_Proxy | 9",
             "type": "shadowsocks",
             "server": "147.78.3.93",
             "server_port": 990,
@@ -162,7 +162,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @vmess_vless_v2rayng | 0",
+            "tag": "🇫🇮FI | 🟢 | ss | @vmess_vless_v2rayng | 0",
             "type": "shadowsocks",
             "server": "83.147.216.70",
             "server_port": 64519,
@@ -172,7 +172,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @iP_CF | 16",
+            "tag": "🇺🇸US | 🟢 | ss | @iP_CF | 16",
             "type": "shadowsocks",
             "server": "45.87.175.10",
             "server_port": 8080,
@@ -182,7 +182,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @iP_CF | 17",
+            "tag": "🇬🇧GB | 🟢 | ss | @iP_CF | 17",
             "type": "shadowsocks",
             "server": "admin.c2.webramz.co",
             "server_port": 443,
@@ -192,7 +192,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @iP_CF | 18",
+            "tag": "🇺🇸US | 🟢 | ss | @iP_CF | 18",
             "type": "shadowsocks",
             "server": "api.namasha.co",
             "server_port": 443,
@@ -202,7 +202,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @iP_CF | 19",
+            "tag": "🇬🇧GB | 🟢 | ss | @iP_CF | 19",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
             "server_port": 443,
@@ -212,7 +212,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @iP_CF | 20",
+            "tag": "🇺🇸US | 🟢 | ss | @iP_CF | 20",
             "type": "shadowsocks",
             "server": "45.87.175.192",
             "server_port": 8080,
@@ -222,7 +222,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @iP_CF | 21",
+            "tag": "🇺🇸US | 🟢 | ss | @iP_CF | 21",
             "type": "shadowsocks",
             "server": "45.87.175.178",
             "server_port": 8080,
@@ -232,7 +232,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @iP_CF | 26",
+            "tag": "🇳🇱NL | 🟢 | ss | @iP_CF | 26",
             "type": "shadowsocks",
             "server": "103.106.1.92",
             "server_port": 23492,
