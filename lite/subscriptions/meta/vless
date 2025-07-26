@@ -153,8 +153,8 @@ proxies:
   - {"name":"🇩🇪DE | 🔴 | vless | @customv2ray | 23","type":"vless","server":"holkanas.atroart.ir","port":52928,"udp":false,"uuid":"dc58f214-4227-4f58-8090-cbcedf1adeba","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 6","type":"vless","server":"188.114.97.1","port":443,"udp":false,"uuid":"96479a22-9333-4b03-9912-4dd26acef75e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"NExtfilmtOmovies.sitE","ws-opts":{"path":"/9EkfcCDedhvB19xj?ed=2560","headers":{"host":"nextfilmtomovies.site"}}}
   - {"name":"🇮🇪IE | 🔴 | vless | @UnlimitedDev | 7","type":"vless","server":"34.247.254.247","port":50768,"udp":true,"uuid":"c7e4c202-cfdf-44df-85a7-a9e7b4545a74","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"jetbrains.com","reality-opts":{"public-key":"7kUu70kwGDQ65WQHCBXcQ-KLQa5V8VVxX3zMML7hSlQ","short-id":"4e78519d"}}
-  - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 26","type":"vless","server":"104.26.15.69","port":2096,"udp":false,"uuid":"30f2d443-af46-4dd6-83c9-b5e17299ebd2","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"carlotta.shoorekeeper.cloudns.org","ws-opts":{"path":"/proxyip=zani.yaemiko.ggff.net","headers":{"host":"carlotta.shoorekeeper.cloudns.org"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 27","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"38046915-6d82-4d86-8510-b5bcc569d0ea","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"PaGes.deV","ws-opts":{"path":"/@Prime_Verse?ed=2560","headers":{"host":"MydigiKala.pAges.dEv"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 27","type":"vless","server":"104.26.15.69","port":2096,"udp":false,"uuid":"30f2d443-af46-4dd6-83c9-b5e17299ebd2","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"carlotta.shoorekeeper.cloudns.org","ws-opts":{"path":"/proxyip=zani.yaemiko.ggff.net","headers":{"host":"carlotta.shoorekeeper.cloudns.org"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 28","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"38046915-6d82-4d86-8510-b5bcc569d0ea","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"PaGes.deV","ws-opts":{"path":"/@Prime_Verse?ed=2560","headers":{"host":"MydigiKala.pAges.dEv"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11","type":"vless","server":"speedy.mooo.info","port":80,"udp":false,"uuid":"9e8c0b71-1e9e-4a4d-9e86-4ea9772ef534","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 12","type":"vless","server":"fx.ircloudmarket.com","port":80,"udp":false,"uuid":"9e8c0b71-1e9e-4a4d-9e86-4ea9772ef534","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @v2rayngvpn | 17","type":"vless","server":"gr.dnszone.top","port":45500,"udp":false,"uuid":"0577b28a-3c76-422b-bf0e-8f4618ae9054","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -232,8 +232,8 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @customv2ray | 23'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 6'
       - '🇮🇪IE | 🔴 | vless | @UnlimitedDev | 7'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 26'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 27'
+      - '🇺🇸US | 🔴 | vless | @vmessorg | 28'
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 12'
       - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 17'
@@ -311,8 +311,8 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @customv2ray | 23'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 6'
       - '🇮🇪IE | 🔴 | vless | @UnlimitedDev | 7'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 26'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 27'
+      - '🇺🇸US | 🔴 | vless | @vmessorg | 28'
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 12'
       - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 17'
@@ -389,8 +389,8 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @customv2ray | 23'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 6'
       - '🇮🇪IE | 🔴 | vless | @UnlimitedDev | 7'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 26'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 27'
+      - '🇺🇸US | 🔴 | vless | @vmessorg | 28'
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 12'
       - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 17'
