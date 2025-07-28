@@ -300,7 +300,7 @@
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 118",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 119",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 120",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 121",
+                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 121",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 122",
                 "🇬🇧GB | 🔴 | vless | @prrofile_purple | 123",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 124",
@@ -355,9 +355,10 @@
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 36",
                 "🇬🇧GB | 🔴 | vless | @customv2ray | 38",
                 "🚩CF | 🔴 | vless | @customv2ray | 39",
-                "🚩CF | 🔴 | vless | @UnlimitedDev | 3",
-                "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 4",
-                "🚩CF | 🔴 | vless | @UnlimitedDev | 6",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 1",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 5",
+                "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 6",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 8",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 1",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 2",
@@ -810,7 +811,7 @@
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 118",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 119",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 120",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 121",
+                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 121",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 122",
                 "🇬🇧GB | 🔴 | vless | @prrofile_purple | 123",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 124",
@@ -865,9 +866,10 @@
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 36",
                 "🇬🇧GB | 🔴 | vless | @customv2ray | 38",
                 "🚩CF | 🔴 | vless | @customv2ray | 39",
-                "🚩CF | 🔴 | vless | @UnlimitedDev | 3",
-                "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 4",
-                "🚩CF | 🔴 | vless | @UnlimitedDev | 6",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 1",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 5",
+                "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 6",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 8",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 1",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 2",
@@ -5501,7 +5503,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 121",
+            "tag": "🇨🇦CA | 🔴 | vless | @prrofile_purple | 121",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 2096,
@@ -6922,7 +6924,28 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 3",
+            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 1",
+            "type": "vless",
+            "server": "104.21.112.1",
+            "server_port": 8080,
+            "uuid": "3cd659ac-a0cf-4b24-f5ff-16d6538a5f71",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480",
+                "headers": {
+                    "Host": "104.21.112.1"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 5",
             "type": "vless",
             "server": "104.21.112.1",
             "server_port": 8080,
@@ -6943,7 +6966,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 6",
             "type": "vless",
             "server": "91.99.144.152",
             "server_port": 443,
@@ -6957,7 +6980,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 6",
+            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 8",
             "type": "vless",
             "server": "188.114.97.1",
             "server_port": 443,
