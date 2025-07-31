@@ -123,7 +123,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 9",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
@@ -180,7 +180,7 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
-                "🇯🇵JP | 🟢 | vless | @Capoit | 28",
+                "🇸🇪SE | 🟢 | vless | @Capoit | 28",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 29",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 15",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
@@ -220,7 +220,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 9",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
@@ -277,7 +277,7 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
-                "🇯🇵JP | 🟢 | vless | @Capoit | 28",
+                "🇸🇪SE | 🟢 | vless | @Capoit | 28",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 29",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 15",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
@@ -712,7 +712,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1985,7 +1985,7 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🟢 | vless | @Capoit | 28",
+            "tag": "🇸🇪SE | 🟢 | vless | @Capoit | 28",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
