@@ -112,7 +112,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 0",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 1",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -209,7 +209,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 0",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 1",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -458,7 +458,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
             "type": "vless",
             "server": "n0.asmdns.net",
             "server_port": 2082,
