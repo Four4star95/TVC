@@ -513,7 +513,7 @@
                 "🇨🇿CZ | 🟢 | vless | @Capoit | 5",
                 "🇦🇲AM | 🔴 | vless | @Capoit | 6",
                 "🇺🇸US | 🔴 | vless | @Capoit | 8",
-                "🇨🇦CA | 🔴 | vless | @Capoit | 10",
+                "🇺🇸US | 🔴 | vless | @Capoit | 10",
                 "🇺🇸US | 🔴 | vless | @Capoit | 11",
                 "🇭🇺HU | 🟢 | vless | @Capoit | 12",
                 "🚩CF | 🔴 | vless | @Capoit | 14",
@@ -1023,7 +1023,7 @@
                 "🇨🇿CZ | 🟢 | vless | @Capoit | 5",
                 "🇦🇲AM | 🔴 | vless | @Capoit | 6",
                 "🇺🇸US | 🔴 | vless | @Capoit | 8",
-                "🇨🇦CA | 🔴 | vless | @Capoit | 10",
+                "🇺🇸US | 🔴 | vless | @Capoit | 10",
                 "🇺🇸US | 🔴 | vless | @Capoit | 11",
                 "🇭🇺HU | 🟢 | vless | @Capoit | 12",
                 "🚩CF | 🔴 | vless | @Capoit | 14",
@@ -10777,7 +10777,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capoit | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @Capoit | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
