@@ -134,7 +134,7 @@
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 3",
                 "🚩CF | 🔴 | vless | @NIM_VPN_ir | 4",
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 5",
-                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 6",
+                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🚩CF | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9",
@@ -708,7 +708,7 @@
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 3",
                 "🚩CF | 🔴 | vless | @NIM_VPN_ir | 4",
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 5",
-                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 6",
+                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🚩CF | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9",
@@ -1969,7 +1969,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
             "type": "vless",
             "server": "still-bar-5702.vpnetwork3567.workers.dev",
             "server_port": 443,
