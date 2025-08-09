@@ -121,7 +121,8 @@
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 120",
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 134",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 0",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 10",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 0",
+                "🇷🇺RU | 🟢 | vmess | @ConfigsHUB | 9",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -166,7 +167,8 @@
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 120",
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 134",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 0",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 10",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 0",
+                "🇷🇺RU | 🟢 | vmess | @ConfigsHUB | 9",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -474,11 +476,35 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 10",
+            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 0",
             "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
+            "server": "91.99.185.216",
+            "server_port": 20086,
+            "uuid": "7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺RU | 🟢 | vmess | @ConfigsHUB | 9",
+            "type": "vmess",
+            "server": "45.67.230.79",
+            "server_port": 11052,
+            "uuid": "314185f7-931d-4656-922d-0857e7afd224",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
