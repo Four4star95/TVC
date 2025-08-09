@@ -176,8 +176,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 17",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -193,7 +193,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 63",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 64",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 22",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -278,8 +278,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 17",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -295,7 +295,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 63",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 64",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 22",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -1908,11 +1908,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
+            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "199.232.5.101",
+            "server": "185.234.66.82",
             "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "uuid": "b5e8bfe7-6cdb-402d-b243-1e0f53ebb582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1922,7 +1922,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "mefa.ir",
+                "server_name": "185.234.66.82",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1932,28 +1932,40 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/jzmdpvws",
                 "headers": {
-                    "Host": "mefa.ir"
+                    "Host": "185.234.66.82"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 17",
-            "type": "trojan",
-            "server": "156.229.48.169",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "172.67.164.1",
             "server_port": 443,
-            "password": "NISHIKUITAN111",
+            "uuid": "ec7de7e0-3f09-4ef4-8a34-e441917d65fa",
+            "flow": "",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "verina.ccantarella.dns-dynamic.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/\/",
+                "path": "\/BIA_CHANEL@JKVPN",
                 "headers": {
-                    "Host": "za.ylks.xyz"
+                    "Host": "verina.ccantarella.dns-dynamic.net"
                 }
             }
         },
@@ -2295,7 +2307,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
