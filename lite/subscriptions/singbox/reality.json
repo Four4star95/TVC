@@ -109,7 +109,7 @@
                 "🇺🇸US | 🔴 | vless | @v2_team | 6",
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 149",
-                "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 7",
+                "🇹🇷TR | 🟢 | vless | @ShadowProxy66 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇫🇮FI | 🟢 | vless | @Capoit | 23",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 16",
@@ -126,7 +126,7 @@
                 "🇺🇸US | 🔴 | vless | @v2_team | 6",
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 149",
-                "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 7",
+                "🇹🇷TR | 🟢 | vless | @ShadowProxy66 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇫🇮FI | 🟢 | vless | @Capoit | 23",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 16",
@@ -257,11 +257,11 @@
             }
         },
         {
-            "tag": "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 7",
+            "tag": "🇹🇷TR | 🟢 | vless | @ShadowProxy66 | 4",
             "type": "vless",
-            "server": "195.133.8.126",
-            "server_port": 8081,
-            "uuid": "fa886719-16fa-4b10-88c5-3c00a6f5a5f1",
+            "server": "45.12.143.191",
+            "server_port": 20329,
+            "uuid": "e105e56a-5f81-41a2-ab44-bfffc9b00674",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -280,8 +280,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc",
-                    "short_id": "220463"
+                    "public_key": "Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo",
+                    "short_id": "4602ee9f9f36"
                 }
             }
         },
