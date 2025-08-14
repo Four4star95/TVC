@@ -177,8 +177,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -195,7 +195,7 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 4",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 5",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 11",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
                 "❔XX | 🔴 | vless | @SvnTeam | 7",
@@ -277,8 +277,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -295,7 +295,7 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 4",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 5",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 11",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
                 "❔XX | 🔴 | vless | @SvnTeam | 7",
@@ -1597,8 +1597,8 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
             "type": "vless",
-            "server": "216.22.5.244",
-            "server_port": 8880,
+            "server": "172.66.40.99",
+            "server_port": 8080,
             "uuid": "a8e56dbd-5cc1-4b2f-850f-92779fb62b3d",
             "flow": "",
             "packet_encoding": "xudp",
@@ -1606,6 +1606,13 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
             }
         },
         {
@@ -1910,11 +1917,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "151.101.2.133",
-            "server_port": 443,
-            "uuid": "f0cf401c-91d4-5097-a6dc-f52a3bd79d63",
+            "server": "62.60.192.209",
+            "server_port": 80,
+            "uuid": "f5f2458c-5fcb-4820-82c2-2997492c54d5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1922,53 +1929,26 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "live.skornorth.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "live.skornorth.com"
+                    "Host": "62.60.192.209"
                 }
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "nv179.momdping.com",
-            "server_port": 443,
-            "uuid": "2640c437-e7f1-4896-9afb-59125878c723",
+            "server": "172.67.211.227",
+            "server_port": 2082,
+            "uuid": "c54ba325-c1be-4845-a2e7-922b5cd211c3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nv179.momdping.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "nv179.momdping.com"
-                }
             }
         },
         {
@@ -2337,7 +2317,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 5",
             "type": "vless",
             "server": "91.99.216.9",
             "server_port": 2009,
