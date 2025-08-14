@@ -177,8 +177,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
+                "🇹🇷TR | 🟢 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -277,8 +277,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
+                "🇹🇷TR | 🟢 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -1910,31 +1910,63 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "104.19.122.202",
-            "server_port": 8880,
-            "uuid": "c54ba325-c1be-4845-a2e7-922b5cd211c3",
-            "flow": "",
+            "server": "92.112.126.22",
+            "server_port": 8442,
+            "uuid": "31303020-3531-4035-b120-343920343920",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "creativecommons.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA",
+                    "short_id": "59b75803"
+                }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇹🇷TR | 🟢 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "cert.aivpn.online",
-            "server_port": 46643,
-            "uuid": "dc9a231a-bb20-45a1-9b56-78607c0db0a9",
+            "server": "185.234.66.82",
+            "server_port": 443,
+            "uuid": "b5e8bfe7-6cdb-402d-b243-1e0f53ebb582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "185.234.66.82",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/jzmdpvws",
+                "headers": {
+                    "Host": "185.234.66.82"
+                }
             }
         },
         {
