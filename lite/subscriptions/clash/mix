@@ -123,13 +123,14 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 12","type":"trojan","server":"18.193.140.121","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 13","type":"trojan","server":"63.178.27.188","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 3","type":"vmess","server":"65.109.188.195","port":"32017","cipher":"auto","uuid":"c0ccdeb9-784c-4d67-b904-20dcaac9902a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 4","type":"vmess","server":"65.109.188.195","port":"32017","cipher":"auto","uuid":"c0ccdeb9-784c-4d67-b904-20dcaac9902a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3","type":"vmess","server":"customers.tele-shop-too.studio","port":"33203","cipher":"auto","uuid":"eaae52d7-bc1a-4979-bd66-b6b428107173","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇫🇷FR | 🟢 | vmess | @ConfigsHUB | 18","type":"vmess","server":"51.254.21.193","port":"20086","cipher":"auto","uuid":"9bcecb26-920a-4e68-b296-88526310bff6","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
+  - {"name":"🇨🇦CA | 🟢 | vmess | @ConfigsHUB | 19","type":"vmess","server":"15.235.41.200","port":"80","cipher":"auto","uuid":"58fe1542-5290-40ad-815a-77707a81afe5","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/IOebhLMhl1CTbFHbL95myfRX2","headers":{"host":"google.com"}}}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"🇩🇪DE | 🟢 | vmess | @Hope_Net | 5","type":"vmess","server":"94.130.190.88","port":"7610","cipher":"auto","uuid":"5480b44f-5823-4246-bb8e-8a371da6dc4c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵JP | 🟢 | vmess | @Hope_Net | 6","type":"vmess","server":"45.159.51.28","port":"47118","cipher":"auto","uuid":"ea034172-f33d-4f2b-a4a7-c700ca773f7a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US | 🟢 | ss | @iP_CF | 38","type":"ss","server":"45.87.175.192","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸US | 🟢 | ss | @iP_CF | 39","type":"ss","server":"45.87.175.178","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇩🇪DE | 🟢 | vmess | @Hope_Net | 7","type":"vmess","server":"94.130.190.88","port":"7610","cipher":"auto","uuid":"5480b44f-5823-4246-bb8e-8a371da6dc4c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US | 🟢 | ss | @iP_CF | 31","type":"ss","server":"45.87.175.192","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸US | 🟢 | ss | @iP_CF | 32","type":"ss","server":"45.87.175.178","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -141,13 +142,14 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 12'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 13'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 3'
+      - '🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 4'
       - '🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3'
+      - '🇫🇷FR | 🟢 | vmess | @ConfigsHUB | 18'
+      - '🇨🇦CA | 🟢 | vmess | @ConfigsHUB | 19'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 5'
-      - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 6'
-      - '🇺🇸US | 🟢 | ss | @iP_CF | 38'
-      - '🇺🇸US | 🟢 | ss | @iP_CF | 39'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 7'
+      - '🇺🇸US | 🟢 | ss | @iP_CF | 31'
+      - '🇺🇸US | 🟢 | ss | @iP_CF | 32'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -159,13 +161,14 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 12'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 13'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 3'
+      - '🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 4'
       - '🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3'
+      - '🇫🇷FR | 🟢 | vmess | @ConfigsHUB | 18'
+      - '🇨🇦CA | 🟢 | vmess | @ConfigsHUB | 19'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 5'
-      - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 6'
-      - '🇺🇸US | 🟢 | ss | @iP_CF | 38'
-      - '🇺🇸US | 🟢 | ss | @iP_CF | 39'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 7'
+      - '🇺🇸US | 🟢 | ss | @iP_CF | 31'
+      - '🇺🇸US | 🟢 | ss | @iP_CF | 32'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -176,13 +179,14 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 12'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 13'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 3'
+      - '🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 4'
       - '🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3'
+      - '🇫🇷FR | 🟢 | vmess | @ConfigsHUB | 18'
+      - '🇨🇦CA | 🟢 | vmess | @ConfigsHUB | 19'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 5'
-      - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 6'
-      - '🇺🇸US | 🟢 | ss | @iP_CF | 38'
-      - '🇺🇸US | 🟢 | ss | @iP_CF | 39'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 7'
+      - '🇺🇸US | 🟢 | ss | @iP_CF | 31'
+      - '🇺🇸US | 🟢 | ss | @iP_CF | 32'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
