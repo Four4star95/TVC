@@ -117,7 +117,7 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 6",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 7",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 54",
@@ -155,8 +155,8 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 13",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 16",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 9",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 10",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 5",
@@ -174,6 +174,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -211,7 +212,7 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 6",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 7",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 54",
@@ -249,8 +250,8 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 13",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 16",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 9",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 10",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 5",
@@ -268,6 +269,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -554,7 +556,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "13.39.54.25",
+            "server": "51.44.56.77",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -583,9 +585,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "3.121.145.31",
+            "server": "13.39.54.25",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1484,7 +1486,28 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 8080,
+            "uuid": "a8e56dbd-5cc1-4b2f-850f-92779fb62b3d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
             "type": "vless",
             "server": "sss2180.tas-bazi.com",
             "server_port": 443,
@@ -1495,27 +1518,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 10",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "75b63c38-ba6a-4bc8-b1ce-eb7df9931faf",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ShadowProxy66-ShadowProxy66",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
             }
         },
         {
@@ -1850,6 +1852,37 @@
                 "path": "\/193.123.81.105=443",
                 "headers": {
                     "Host": "104.21.112.1"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "alhilal.com",
+            "server_port": 443,
+            "uuid": "4e4768df-0fbb-4cc1-8fd3-7c6fea95742a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "rAyAn-cOnFiG-TeLeGrAm-a05.pArAsToO.DpDnS.OrG",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Rayan_Config",
+                "headers": {
+                    "Host": "rAyAn-cOnFiG-TeLeGrAm-a05.pArAsToO.DpDnS.OrG"
                 }
             }
         },
