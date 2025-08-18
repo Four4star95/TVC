@@ -174,8 +174,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 4",
@@ -193,7 +192,7 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 4",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 11",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
                 "❔XX | 🔴 | vless | @SvnTeam | 7",
@@ -272,8 +271,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 4",
@@ -291,7 +289,7 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 4",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 11",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
                 "❔XX | 🔴 | vless | @SvnTeam | 7",
@@ -1814,11 +1812,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK",
+            "server": "104.24.196.20",
             "server_port": 80,
-            "uuid": "43791e7f-8e02-4189-9533-4f842bcacd79",
+            "uuid": "dcdffdab-5d5c-44e0-951d-01e5550ce2f6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1828,40 +1826,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?fooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+                "path": "\/nekoOo?ed=2560",
                 "headers": {
-                    "Host": "CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "app-stg.gopay.co.id.servpn.my.id",
-            "server_port": 443,
-            "uuid": "41b8c97a-7fac-4191-8922-f58d42a9acf7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "app-stg.gopay.co.id.servpn.my.id",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/id5\/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN",
-                "headers": {
-                    "Host": "app-stg.gopay.co.id.servpn.my.id"
+                    "Host": "104.24.196.20"
                 }
             }
         },
@@ -2295,7 +2262,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 4",
             "type": "vless",
             "server": "91.99.216.9",
             "server_port": 80,
