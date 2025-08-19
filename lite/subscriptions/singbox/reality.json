@@ -114,6 +114,7 @@
                 "🇭🇺HU | 🟢 | vless | @proxy_kafee | 11",
                 "🇷🇺RU | 🟢 | vless | @prrofile_purple | 140",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
+                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 12",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 18",
@@ -136,6 +137,7 @@
                 "🇭🇺HU | 🟢 | vless | @proxy_kafee | 11",
                 "🇷🇺RU | 🟢 | vless | @prrofile_purple | 140",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
+                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 12",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 18",
@@ -408,6 +410,35 @@
                     "enabled": true,
                     "public_key": "58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg",
                     "short_id": "ea0e387f2b260e0d"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "zZz.ZzZ.zZz.yasharteam.com",
+            "server_port": 443,
+            "uuid": "ddaf37b4-a481-4f25-877a-4a34445040db",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
                 }
             }
         },
