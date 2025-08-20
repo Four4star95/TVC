@@ -116,9 +116,9 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 2",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 3",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 54",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 55",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 55",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -127,7 +127,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 9",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 10",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -180,8 +180,8 @@
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇨🇳CN | 🔴 | trojan | @ConfigsHUB | 15",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -227,9 +227,9 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 2",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 3",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 54",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 55",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 55",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -238,7 +238,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 9",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 10",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -291,8 +291,8 @@
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇨🇳CN | 🔴 | trojan | @ConfigsHUB | 15",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -610,7 +610,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -652,7 +652,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 55",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 55",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -696,7 +696,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
-            "server": "104.21.43.168",
+            "server": "172.66.40.99",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
             "flow": "",
@@ -727,7 +727,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
-            "server": "172.66.40.99",
+            "server": "104.21.43.168",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
             "flow": "",
@@ -847,7 +847,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 9",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -2030,42 +2030,23 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "104.26.1.108",
-            "server_port": 443,
-            "uuid": "65a32d27-7a02-45a8-b90a-29f6bebc87ae",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇨🇳CN | 🔴 | trojan | @ConfigsHUB | 15",
+            "type": "trojan",
+            "server": "36.151.192.201",
+            "server_port": 51377,
+            "password": "DNUMdmnJ",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "blog.ruangguru.com.servpn.my.id",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/sg3?ed=2560\/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512",
-                "headers": {
-                    "Host": "blog.ruangguru.com.servpn.my.id"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "104.26.0.108",
-            "server_port": 443,
-            "uuid": "6780a3c0-a98c-4622-b894-8e34167f7b31",
+            "server": "94.131.9.159",
+            "server_port": 8443,
+            "uuid": "a5e0c391-accd-45a7-8bb9-99ffb9b09b16",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2075,7 +2056,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "blog.ruangguru.com.servpn.my.id",
+                "server_name": "94.131.9.159",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -2085,9 +2066,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/id5?ed=2560\/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512",
+                "path": "\/",
                 "headers": {
-                    "Host": "blog.ruangguru.com.servpn.my.id"
+                    "Host": "94.131.9.159"
                 }
             }
         },
@@ -2240,31 +2221,7 @@
         {
             "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 18",
             "type": "vmess",
-            "server": "104.21.238.60",
-            "server_port": 2086,
-            "uuid": "bc65fac2-7dc7-426f-acdd-0779a5035bde",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "104.21.238.60"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 19",
-            "type": "vmess",
-            "server": "104.21.238.125",
+            "server": "104.18.114.208",
             "server_port": 2095,
             "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
             "security": "auto",
@@ -2281,7 +2238,31 @@
                 "type": "ws",
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
-                    "Host": "104.21.238.125"
+                    "Host": "104.18.114.208"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 19",
+            "type": "vmess",
+            "server": "104.26.0.79",
+            "server_port": 8880,
+            "uuid": "90f8f4dc-8092-4355-9047-05f506f5e9ab",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/github.com\/Alvin9999",
+                "headers": {
+                    "Host": "104.26.0.79"
                 }
             }
         },
