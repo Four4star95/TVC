@@ -121,8 +121,7 @@
                 "❔XX | 🟢 | vmess | @prrofile_purple | 138",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 4",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 19",
+                "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 3",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 5",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -156,8 +155,7 @@
                 "❔XX | 🟢 | vmess | @prrofile_purple | 138",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 4",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 19",
+                "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 3",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 5",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -481,11 +479,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
+            "tag": "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 3",
             "type": "vmess",
-            "server": "cfcdn3.sanfencdn9.com",
-            "server_port": 80,
-            "uuid": "01dee9d8-7147-44b4-b3df-b4fe053d18d5",
+            "server": "31.56.113.203",
+            "server_port": 9012,
+            "uuid": "41b96ee2-f288-4422-a1a8-7e8a3545480c",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -495,37 +493,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/video\/VDXcaM7r",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 19",
-            "type": "vmess",
-            "server": "cfcdn3.sanfencdn9.com",
-            "server_port": 80,
-            "uuid": "fec25e7b-3e30-4702-9b93-62ed3849a9d7",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/video\/X37qXHip",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
