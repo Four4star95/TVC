@@ -125,7 +125,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 12",
@@ -179,8 +179,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇪🇪EE | 🟢 | vless | @ConfigsHUB | 18",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -196,9 +196,9 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇳🇱NL | 🟢 | ss | @iP_CF | 24",
-                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 11",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
-                "🇨🇦CA | 🔴 | vless | @nofiltering2 | 21",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 21",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 4",
@@ -231,7 +231,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 12",
@@ -285,8 +285,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇪🇪EE | 🟢 | vless | @ConfigsHUB | 18",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -302,9 +302,9 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇳🇱NL | 🟢 | ss | @iP_CF | 24",
-                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 11",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
-                "🇨🇦CA | 🔴 | vless | @nofiltering2 | 21",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 21",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 4",
@@ -805,7 +805,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1933,11 +1933,11 @@
             }
         },
         {
-            "tag": "🇪🇪EE | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "es.iovpn.click",
-            "server_port": 443,
-            "uuid": "a5ada705-cbac-47f7-9fa5-2e4426b7a510",
+            "server": "104.248.194.230",
+            "server_port": 80,
+            "uuid": "e23f8d6a-b596-489c-98ac-d0d2414a71f0",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1947,7 +1947,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "apple.com",
+                "server_name": "marzijooon.adas.monster",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1956,37 +1956,29 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "YoQ4rDLzUDrLuKwPi3T1X9T7ttwfZ3wv0hTBpzg44i8",
-                    "short_id": "31f644193ea3"
+                    "public_key": "z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE",
+                    "short_id": "2a70224f5466"
                 }
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "79.133.56.170",
-            "server_port": 443,
-            "uuid": "1b71208f-4837-4996-bd37-a61b431555fb",
-            "flow": "xtls-rprx-vision",
+            "server": "grumpy-building.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "935c990a-9bcc-484b-86a2-2a402f9ad1d4",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM",
-                    "short_id": "3650a4286bf867e9"
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "grumpy-building.seotoolsforyou.co.uk"
                 }
             }
         },
@@ -2327,7 +2319,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @mehrosaboran | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 443,
@@ -2379,7 +2371,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @nofiltering2 | 21",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 21",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
