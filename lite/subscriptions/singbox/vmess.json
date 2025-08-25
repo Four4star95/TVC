@@ -107,7 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇦🇺AU | 🟢 | vmess | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
@@ -120,7 +120,7 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇦🇺AU | 🟢 | vmess | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
@@ -165,11 +165,11 @@
             }
         },
         {
-            "tag": "🇦🇺AU | 🟢 | vmess | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
             "type": "vmess",
-            "server": "46.250.243.56",
-            "server_port": 50394,
-            "uuid": "a75f3f95-ad4e-4498-fc72-dd740dd02bfc",
+            "server": "15.204.234.200",
+            "server_port": 41100,
+            "uuid": "c7f169a3-2e9a-4894-ba53-7b2fa6fd08b4",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
