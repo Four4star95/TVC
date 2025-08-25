@@ -157,7 +157,7 @@
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
-                "🇬🇧GB | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
                 "🇵🇱PL | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -174,8 +174,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 15",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
@@ -255,7 +255,7 @@
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
-                "🇬🇧GB | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
                 "🇵🇱PL | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -272,8 +272,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 15",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
@@ -1523,7 +1523,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @ShadowProxy66 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 2096,
@@ -1898,11 +1898,25 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "indeed.com",
+            "server": "194.135.46.24",
             "server_port": 443,
-            "uuid": "7d18fc67-1994-4f7e-8ff8-c024223f33bb",
+            "uuid": "49eb1e7a-2b76-4915-ba85-977c0e0d2ab8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8443,
+            "uuid": "8e615b78-0905-48bb-ab68-fb0dfdff7688",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1912,7 +1926,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "revcloud.migacpi.org",
+                "server_name": "server13.coin.name.ng",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1922,24 +1936,10 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/cbde4058-6b81-432b-8689-dd7ce10e479c",
+                "path": "\/",
                 "headers": {
-                    "Host": "revcloud.migacpi.org"
+                    "Host": "server13.coin.name.ng"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "94.183.149.98",
-            "server_port": 3801,
-            "uuid": "5c6dd90e-5d05-4877-bb3b-7384f65a10d4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
