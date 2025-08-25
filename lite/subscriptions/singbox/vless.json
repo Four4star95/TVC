@@ -133,8 +133,8 @@
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 12",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 13",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 17",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 18",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -156,7 +156,7 @@
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇬🇧GB | 🔴 | vless | @ShadowProxy66 | 3",
                 "🇵🇱PL | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -173,7 +173,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
@@ -229,8 +230,8 @@
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 12",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 13",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 17",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 18",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -252,7 +253,7 @@
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇬🇧GB | 🔴 | vless | @ShadowProxy66 | 3",
                 "🇵🇱PL | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -269,7 +270,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
@@ -947,7 +949,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 17",
             "type": "vless",
             "server": "privasi.turah.my.id",
             "server_port": 443,
@@ -978,7 +980,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 18",
             "type": "vless",
             "server": "172.67.74.133",
             "server_port": 443,
@@ -1483,7 +1485,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @ShadowProxy66 | 3",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 2096,
@@ -1858,9 +1860,30 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "104.26.1.108",
+            "server": "83.149.105.62",
+            "server_port": 7195,
+            "uuid": "50b25340-baf4-4e5b-b1d8-cba632e61623",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "7195vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "ava.game.naver.com.servpn.my.id",
             "server_port": 443,
             "uuid": "6cc53dc5-55b2-4968-bb7c-ee84e1429c63",
             "flow": "",
@@ -1882,7 +1905,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/kr1?ed=2560\/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN",
+                "path": "\/kr1?ed=2560",
                 "headers": {
                     "Host": "ava.game.naver.com.servpn.my.id"
                 }
