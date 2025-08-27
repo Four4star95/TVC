@@ -170,7 +170,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
@@ -264,7 +265,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
@@ -1825,11 +1827,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "104.24.40.146",
+            "server": "app-stg.gopay.co.id.servpn.my.id",
             "server_port": 443,
-            "uuid": "6b758c57-3a4b-41f3-be1e-25025eba8bfc",
+            "uuid": "39ca66b9-a34c-4031-a6ce-8846f75d8cb9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1839,7 +1841,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "revest.maketunnelim.lat",
+                "server_name": "app-stg.gopay.co.id.servpn.my.id",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1849,10 +1851,24 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/index.html?ed=2560",
+                "path": "\/Join---planB_proxy",
                 "headers": {
-                    "Host": "revest.maketunnelim.lat"
+                    "Host": "app-stg.gopay.co.id.servpn.my.id"
                 }
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "m13a.vip784.com",
+            "server_port": 33801,
+            "uuid": "552f2fe8-fb7e-4f07-b4d6-a231f1dfec42",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
