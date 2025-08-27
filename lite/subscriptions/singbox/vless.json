@@ -117,7 +117,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 65",
@@ -126,7 +126,7 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
+                "🇫🇷FR | 🔴 | vless | @rxv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 8",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 9",
@@ -170,7 +170,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 9",
                 "🇬🇧GB | 🔴 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
@@ -211,7 +211,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 65",
@@ -220,7 +220,7 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
+                "🇫🇷FR | 🔴 | vless | @rxv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 8",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 9",
@@ -264,7 +264,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 9",
                 "🇬🇧GB | 🔴 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
@@ -583,7 +583,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -768,7 +768,21 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
+            "tag": "🇫🇷FR | 🔴 | vless | @rxv2ray | 13",
+            "type": "vless",
+            "server": "79.137.33.139",
+            "server_port": 16390,
+            "uuid": "170ba974-6ae5-44ae-dfdc-4675b5643f34",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
             "type": "vless",
             "server": "104.16.69.64",
             "server_port": 8880,
@@ -785,27 +799,6 @@
                 "path": "\/7YVyoVNnbaVzgl6D?ed=2560",
                 "headers": {
                     "Host": "104.16.69.64"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
-            "type": "vless",
-            "server": "172.67.65.158",
-            "server_port": 8880,
-            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Etb1L6YUdZFZuTOr?ed=2560",
-                "headers": {
-                    "Host": "172.67.65.158"
                 }
             }
         },
@@ -1803,11 +1796,11 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "pq-japan4.09vpn.com",
-            "server_port": 80,
-            "uuid": "5f4b2c6f-a231-462b-afdf-0a836bffa71c",
+            "server": "172.66.40.99",
+            "server_port": 8880,
+            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1817,9 +1810,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/vless\/",
+                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
                 "headers": {
-                    "Host": "pq-japan4.09vpn.com"
+                    "Host": "172.66.40.99"
                 }
             }
         },
