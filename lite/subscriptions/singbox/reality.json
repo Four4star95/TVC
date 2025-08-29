@@ -114,6 +114,8 @@
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 152",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 1",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇫🇮FI | 🟢 | vless | @kingofilter | 1",
@@ -133,6 +135,8 @@
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 152",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 1",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇫🇮FI | 🟢 | vless | @kingofilter | 1",
@@ -395,6 +399,71 @@
                     "enabled": true,
                     "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
                     "short_id": "16895459a2c7768d"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "91.99.115.173",
+            "server_port": 443,
+            "uuid": "c2b6c0b6-28c3-4b2d-ad78-3398276c1ed4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "snapp.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mEzwGx3LUXPR-sw8RFmlGM_ctzTwPlgq-mxku4wtBnc",
+                    "short_id": "c1"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Ki5km8BGk5eqaB0Q1qI",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "91.107.152.110",
+            "server_port": 443,
+            "uuid": "e7f4b612-7cca-ddcd-c875-f18650b9eab5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zhaket.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw",
+                    "short_id": "821bbc44dd7a4e15"
                 }
             }
         },
