@@ -173,8 +173,6 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 7",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 8",
@@ -183,7 +181,7 @@
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 13",
                 "🇺🇸US | 🔴 | vless | @Capoit | 14",
-                "🇬🇧GB | 🔴 | vless | @FreakConfig | 16",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 11",
@@ -271,8 +269,6 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 7",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 8",
@@ -281,7 +277,7 @@
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 13",
                 "🇺🇸US | 🔴 | vless | @Capoit | 14",
-                "🇬🇧GB | 🔴 | vless | @FreakConfig | 16",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 11",
@@ -1865,34 +1861,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "104.16.157.108",
-            "server_port": 8080,
-            "uuid": "cc085cde-f9e7-4d9c-83cb-a6df17392f5a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "104.19.122.202",
-            "server_port": 8880,
-            "uuid": "cc085cde-f9e7-4d9c-83cb-a6df17392f5a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
             "type": "vless",
             "server": "cname.proxystore11.news",
@@ -2075,7 +2043,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @FreakConfig | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 8443,
