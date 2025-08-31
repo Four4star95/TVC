@@ -183,7 +183,7 @@
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 13",
                 "🇺🇸US | 🔴 | vless | @Capoit | 14",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
+                "🇬🇧GB | 🔴 | vless | @FreakConfig | 16",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 11",
@@ -281,7 +281,7 @@
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 13",
                 "🇺🇸US | 🔴 | vless | @Capoit | 14",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
+                "🇬🇧GB | 🔴 | vless | @FreakConfig | 16",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 11",
@@ -1867,40 +1867,23 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "160.153.0.11",
-            "server_port": 2083,
-            "uuid": "5e802e1a-3c82-41ec-aaca-f6371b8b86a5",
+            "server": "104.16.157.108",
+            "server_port": 8080,
+            "uuid": "cc085cde-f9e7-4d9c-83cb-a6df17392f5a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fraG2.MAhSAAmINI.cC",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/CPI",
-                "headers": {
-                    "Host": "fraG2.MAhSAAmINI.cC"
-                }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "EVAY_VPN.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "3b82c3ef-d428-4a62-ae97-f53c305f883d",
+            "server": "104.19.122.202",
+            "server_port": 8880,
+            "uuid": "cc085cde-f9e7-4d9c-83cb-a6df17392f5a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2092,7 +2075,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
+            "tag": "🇬🇧GB | 🔴 | vless | @FreakConfig | 16",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 8443,
