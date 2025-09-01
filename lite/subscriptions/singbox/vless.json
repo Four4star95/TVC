@@ -171,8 +171,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 16",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 10",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 6",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 7",
@@ -266,8 +266,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 16",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 10",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 6",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 7",
@@ -1834,11 +1834,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
             "type": "vless",
-            "server": "188.42.145.159",
-            "server_port": 443,
-            "uuid": "54ef4ecf-ff37-436a-be13-95c8a8a1114d",
+            "server": "beLoveD-faILure.SeOtOOLsForyOu.Co.uk",
+            "server_port": 80,
+            "uuid": "3cad733b-3526-476b-adf5-b7cbdd33dc6c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1848,18 +1848,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/security=tlsfp=chromefp=chromesecurity=tls",
+                "path": "\/",
                 "headers": {
-                    "Host": "VIrgiNiavPn-nL.pagEs.dEv"
+                    "Host": "beLoveD-faILure.SeOtOOLsForyOu.Co.uk"
                 }
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 10",
             "type": "vless",
-            "server": "188.42.145.159",
+            "server": "195.42.233.83",
             "server_port": 443,
-            "uuid": "54ef4ecf-ff37-436a-be13-95c8a8a1114d",
+            "uuid": "248b794e-905a-47b4-8c23-fa15746a8d9a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1867,11 +1867,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "195.42.233.83",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram@V2ray_Alpha\/security=tls",
+                "path": "\/rsrjowws?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net",
                 "headers": {
-                    "Host": "VIrgiNiavPn-nL.pagEs.dEv"
+                    "Host": "195.42.233.83"
                 }
             }
         },
