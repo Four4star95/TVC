@@ -121,8 +121,8 @@
                 "🇳🇱NL | 🟢 | vmess | @prrofile_purple | 114",
                 "🇫🇷FR | 🟢 | vmess | @prrofile_purple | 116",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 1",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 5",
-                "🇲🇾MY | 🟢 | vmess | @ConfigsHUB | 9",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
+                "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 1",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -136,9 +136,8 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 7",
-                "❔XX | 🟢 | vmess | @Hope_Net | 8",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
-                "🇺🇸US | 🟢 | vmess | @FreakConfig | 10"
+                "🇺🇸US | 🟢 | vmess | @FreakConfig | 11"
             ]
         },
         {
@@ -160,8 +159,8 @@
                 "🇳🇱NL | 🟢 | vmess | @prrofile_purple | 114",
                 "🇫🇷FR | 🟢 | vmess | @prrofile_purple | 116",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 1",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 5",
-                "🇲🇾MY | 🟢 | vmess | @ConfigsHUB | 9",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
+                "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 1",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -175,9 +174,8 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 7",
-                "❔XX | 🟢 | vmess | @Hope_Net | 8",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
-                "🇺🇸US | 🟢 | vmess | @FreakConfig | 10"
+                "🇺🇸US | 🟢 | vmess | @FreakConfig | 11"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -496,11 +494,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 5",
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
             "type": "vmess",
-            "server": "192.3.216.180",
-            "server_port": 25740,
-            "uuid": "43cf14a5-5b85-47e2-a4c2-b514beab7054",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -513,11 +511,11 @@
             }
         },
         {
-            "tag": "🇲🇾MY | 🟢 | vmess | @ConfigsHUB | 9",
+            "tag": "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 1",
             "type": "vmess",
-            "server": "45.128.54.84",
-            "server_port": 37313,
-            "uuid": "72feb833-4196-4a70-a3f5-aeb011f7d534",
+            "server": "89.44.242.255",
+            "server_port": 2010,
+            "uuid": "623739fb-2ca7-4534-9355-0d69843d6a82",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -905,23 +903,6 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
-            "type": "vmess",
-            "server": "127.1.1.127",
-            "server_port": 80,
-            "uuid": "602736e4-a2e8-4eb3-9fc9-7c7082925365",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
             "type": "vmess",
             "server": "v2ray.codefyinc.com",
@@ -956,7 +937,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @FreakConfig | 10",
+            "tag": "🇺🇸US | 🟢 | vmess | @FreakConfig | 11",
             "type": "vmess",
             "server": "www.speedtest.net",
             "server_port": 443,
