@@ -113,7 +113,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 4",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 146",
                 "🇷🇺RU | 🟢 | vless | @v2ray1_ng | 6",
-                "🇵🇾PY | 🔴 | vless | @ConfigsHUB | 16",
+                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -133,7 +133,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 4",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 146",
                 "🇷🇺RU | 🟢 | vless | @v2ray1_ng | 6",
-                "🇵🇾PY | 🔴 | vless | @ConfigsHUB | 16",
+                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -372,7 +372,7 @@
             }
         },
         {
-            "tag": "🇵🇾PY | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 17",
             "type": "vless",
             "server": "allll.primenet3.shop",
             "server_port": 28157,
