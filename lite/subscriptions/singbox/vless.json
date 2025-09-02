@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 16",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 17",
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 4",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -173,8 +173,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 6",
@@ -203,12 +203,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 16",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 17",
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 4",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -270,8 +270,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 6",
@@ -316,7 +316,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
             "type": "vless",
             "server": "188.114.98.112",
             "server_port": 80,
@@ -445,7 +445,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 5",
+            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 5",
             "type": "vless",
             "server": "104.18.36.24",
             "server_port": 443,
@@ -1901,11 +1901,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "188.42.145.159",
-            "server_port": 443,
-            "uuid": "54ef4ecf-ff37-436a-be13-95c8a8a1114d",
+            "server": "172.66.40.99",
+            "server_port": 8880,
+            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1915,30 +1915,38 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/security=tlsfp=chromesecurity=tls",
+                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
                 "headers": {
-                    "Host": "VIrgiNiavPn-nL.pagEs.dEv"
+                    "Host": "172.66.40.99"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "104.21.234.71",
-            "server_port": 80,
-            "uuid": "113dd109-540e-4497-9d47-eed30315260f",
-            "flow": "",
+            "server": "allll.primenet3.shop",
+            "server_port": 3041,
+            "uuid": "2ec8a6f9-8173-4573-905a-511441373cb0",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/proxyIP=proxyip.us.fxxk.dedyn.iofp=chrome",
-                "headers": {
-                    "Host": "edgetunnel.2424014450.workers.dev"
+            "tls": {
+                "enabled": true,
+                "server_name": "www.refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw",
+                    "short_id": "4c14"
                 }
             }
         },
