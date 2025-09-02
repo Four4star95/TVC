@@ -115,6 +115,7 @@
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 153",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇷🇺RU | 🟢 | vless | @v2ray1_ng | 5",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -137,6 +138,7 @@
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 153",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇷🇺RU | 🟢 | vless | @v2ray1_ng | 5",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -437,6 +439,35 @@
                     "enabled": true,
                     "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
                     "short_id": "16895459a2c7768d"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "rsr.fasssst.ru",
+            "server_port": 8443,
+            "uuid": "bc97be20-96ae-4285-9329-d3c871e5cea7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "rsr.fasssst.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "3JK42e5cEL7MRi1CCvBXPw6keZZBV2rfWwFAv2BMYFU",
+                    "short_id": "429998616b4cf322"
                 }
             }
         },
