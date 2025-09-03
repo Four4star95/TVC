@@ -111,7 +111,7 @@
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 21",
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -122,9 +122,9 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 64",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 12",
                 "🇳🇱NL | 🔴 | vless | @rxv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 7",
@@ -171,8 +171,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 8",
@@ -203,7 +203,7 @@
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 21",
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -214,9 +214,9 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 64",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 12",
                 "🇳🇱NL | 🔴 | vless | @rxv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 7",
@@ -263,8 +263,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 8",
@@ -435,7 +435,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 6",
             "type": "vless",
             "server": "104.18.36.24",
             "server_port": 443,
@@ -699,7 +699,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -744,7 +744,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1807,11 +1807,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "informed-location.seotoolsforyou.co.uk",
+            "server": "EVAY_VPN.fastly80.hosting-ip.com",
             "server_port": 80,
-            "uuid": "5c929ec5-5b1e-447a-950c-354c5d1ba1de",
+            "uuid": "77d09f6b-b081-4d21-93de-9c09a7819c5f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1821,14 +1821,14 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/??ed\/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\/",
+                "path": "\/admin?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
                 "headers": {
-                    "Host": "informed-location.seotoolsforyou.co.uk"
+                    "Host": "EVAY_VPN.fastly80.hosting-ip.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
             "server": "104.17.21.157",
             "server_port": 2095,
