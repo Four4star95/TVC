@@ -106,6 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "🇷🇺RU | 🟢 | vless | @EliV2ray | 0",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 21",
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
@@ -126,6 +127,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "🇷🇺RU | 🟢 | vless | @EliV2ray | 0",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 21",
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
@@ -160,6 +162,35 @@
         {
             "tag": "dns-out",
             "type": "dns"
+        },
+        {
+            "tag": "🇷🇺RU | 🟢 | vless | @EliV2ray | 0",
+            "type": "vless",
+            "server": "212.41.11.152",
+            "server_port": 443,
+            "uuid": "1a6fe500-59da-4598-8576-256f06765ffb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ru.sfasti.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
+                    "short_id": "16895459a2c7768d"
+                }
+            }
         },
         {
             "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 21",
