@@ -112,7 +112,7 @@
                 "🇮🇷IR | 🟢 | vmess | @Hope_Net | 5",
                 "🇯🇵JP | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
-                "🇨🇦CA | 🟢 | vmess | @FreakConfig | 19"
+                "🇺🇸US | 🟢 | vmess | @FreakConfig | 19"
             ]
         },
         {
@@ -125,7 +125,7 @@
                 "🇮🇷IR | 🟢 | vmess | @Hope_Net | 5",
                 "🇯🇵JP | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
-                "🇨🇦CA | 🟢 | vmess | @FreakConfig | 19"
+                "🇺🇸US | 🟢 | vmess | @FreakConfig | 19"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -308,7 +308,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @FreakConfig | 19",
+            "tag": "🇺🇸US | 🟢 | vmess | @FreakConfig | 19",
             "type": "vmess",
             "server": "www.speedtest.net",
             "server_port": 443,
