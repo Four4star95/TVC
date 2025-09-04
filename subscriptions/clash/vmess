@@ -135,7 +135,6 @@ proxies:
   - {"name":"🇺🇸US | 🟢 | vmess | @prrofile_purple | 119","type":"vmess","server":"Www.speedtest.net","port":"8443","cipher":"none","uuid":"35352039-3820-4532-a031-303120313030","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws","headers":{"host":"de-3.stunnel.cc"}}}
   - {"name":"🇫🇷FR | 🟢 | vmess | @prrofile_purple | 124","type":"vmess","server":"51.254.21.193","port":"20086","cipher":"auto","uuid":"9bcecb26-920a-4e68-b296-88526310bff6","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
   - {"name":"🇳🇱NL | 🟢 | vmess | @prrofile_purple | 136","type":"vmess","server":"92.112.126.22","port":"8443","cipher":"none","uuid":"39372035-3320-4537-a031-303120313030","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws","headers":{"host":"nl-2.stunnel.cc"}}}
-  - {"name":"❔XX | 🟢 | vmess | @ConfigsHUB | 6","type":"vmess","server":"برای آپدیت کردن کافیه روی سه نقطه بزنید و گزینه آخر رو بزنید...","port":"3524","cipher":"auto","uuid":"ebb67b24-24ce-4412-9f54-40aca842c0ec","alterId":"0","tls":true,"skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"3524vmess","grpc-mode":""}}
   - {"name":"🇹🇼TW | 🟢 | vmess | @yaney_01 | 1","type":"vmess","server":"45.199.138.217","port":"41000","cipher":"auto","uuid":"f9fa3a9c-f7d5-414f-88e6-6970585d9949","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/282018252526","headers":{"host":"45.199.138.217"}}}
   - {"name":"🇺🇸US | 🟢 | vmess | @yaney_01 | 2","type":"vmess","server":"107.149.119.43","port":"37000","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/040318142507","headers":{"host":"107.149.119.43"}}}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 3","type":"vmess","server":"admin.arzonhost.ir","port":"2086","cipher":"auto","uuid":"7d93e992-48cf-42d4-84f8-75768e815a4c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"admin.arzonhost.ir"}}}
@@ -144,8 +143,6 @@ proxies:
   - {"name":"🇮🇷IR | 🟢 | vmess | @Hope_Net | 2","type":"vmess","server":"46.38.147.138","port":"6060","cipher":"auto","uuid":"64e09f77-d4a3-4138-9797-378425af6eef","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇷🇺RU | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"45.67.215.119","port":"443","cipher":"auto","uuid":"05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/obdii.cfd:443/linkws","headers":{"host":"e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com"}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"dkzbofzkop.com","port":"443","cipher":"auto","uuid":"fa1897db-1925-4c86-a495-939a959af900","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/rbqqvws","headers":{"host":"dkzbofzkop.com"}}}
-  - {"name":"🇸🇬SG | 🟢 | vmess | @Hope_Net | 5","type":"vmess","server":"152.69.219.32","port":"443","cipher":"auto","uuid":"05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/obdii.cfd:443/linkws","headers":{"host":"e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com"}}}
-  - {"name":"🇺🇸US | 🟢 | vmess | @Hope_Net | 6","type":"vmess","server":"158.101.126.221","port":"443","cipher":"auto","uuid":"05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/obdii.cfd:443/linkws","headers":{"host":"e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com"}}}
   - {"name":"🇺🇸US | 🟢 | vmess | @fnet00 | 1","type":"vmess","server":"v2ray.codefyinc.com","port":"443","cipher":"auto","uuid":"2c981164-9b93-4bca-94ff-b78d3f8498d7","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmessws","headers":{"host":"v2ray.codefyinc.com"}}}
 proxy-groups:
   - name: MANUAL
@@ -170,7 +167,6 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 119'
       - '🇫🇷FR | 🟢 | vmess | @prrofile_purple | 124'
       - '🇳🇱NL | 🟢 | vmess | @prrofile_purple | 136'
-      - '❔XX | 🟢 | vmess | @ConfigsHUB | 6'
       - '🇹🇼TW | 🟢 | vmess | @yaney_01 | 1'
       - '🇺🇸US | 🟢 | vmess | @yaney_01 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 3'
@@ -179,8 +175,6 @@ proxy-groups:
       - '🇮🇷IR | 🟢 | vmess | @Hope_Net | 2'
       - '🇷🇺RU | 🟢 | vmess | @Hope_Net | 3'
       - '❔XX | 🟢 | vmess | @Hope_Net | 4'
-      - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 5'
-      - '🇺🇸US | 🟢 | vmess | @Hope_Net | 6'
       - '🇺🇸US | 🟢 | vmess | @fnet00 | 1'
   - name: URL-TEST
     type: url-test
@@ -205,7 +199,6 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 119'
       - '🇫🇷FR | 🟢 | vmess | @prrofile_purple | 124'
       - '🇳🇱NL | 🟢 | vmess | @prrofile_purple | 136'
-      - '❔XX | 🟢 | vmess | @ConfigsHUB | 6'
       - '🇹🇼TW | 🟢 | vmess | @yaney_01 | 1'
       - '🇺🇸US | 🟢 | vmess | @yaney_01 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 3'
@@ -214,8 +207,6 @@ proxy-groups:
       - '🇮🇷IR | 🟢 | vmess | @Hope_Net | 2'
       - '🇷🇺RU | 🟢 | vmess | @Hope_Net | 3'
       - '❔XX | 🟢 | vmess | @Hope_Net | 4'
-      - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 5'
-      - '🇺🇸US | 🟢 | vmess | @Hope_Net | 6'
       - '🇺🇸US | 🟢 | vmess | @fnet00 | 1'
   - name: FALLBACK
     type: fallback
@@ -239,7 +230,6 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 119'
       - '🇫🇷FR | 🟢 | vmess | @prrofile_purple | 124'
       - '🇳🇱NL | 🟢 | vmess | @prrofile_purple | 136'
-      - '❔XX | 🟢 | vmess | @ConfigsHUB | 6'
       - '🇹🇼TW | 🟢 | vmess | @yaney_01 | 1'
       - '🇺🇸US | 🟢 | vmess | @yaney_01 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 3'
@@ -248,8 +238,6 @@ proxy-groups:
       - '🇮🇷IR | 🟢 | vmess | @Hope_Net | 2'
       - '🇷🇺RU | 🟢 | vmess | @Hope_Net | 3'
       - '❔XX | 🟢 | vmess | @Hope_Net | 4'
-      - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 5'
-      - '🇺🇸US | 🟢 | vmess | @Hope_Net | 6'
       - '🇺🇸US | 🟢 | vmess | @fnet00 | 1'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve

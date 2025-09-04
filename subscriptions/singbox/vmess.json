@@ -123,9 +123,8 @@
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 119",
                 "🇫🇷FR | 🟢 | vmess | @prrofile_purple | 124",
                 "🇳🇱NL | 🟢 | vmess | @prrofile_purple | 136",
-                "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 0",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 1",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -136,8 +135,6 @@
                 "🇮🇷IR | 🟢 | vmess | @Hope_Net | 2",
                 "🇷🇺RU | 🟢 | vmess | @Hope_Net | 3",
                 "❔XX | 🟢 | vmess | @Hope_Net | 4",
-                "🇸🇬SG | 🟢 | vmess | @Hope_Net | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
             ]
         },
@@ -162,9 +159,8 @@
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 119",
                 "🇫🇷FR | 🟢 | vmess | @prrofile_purple | 124",
                 "🇳🇱NL | 🟢 | vmess | @prrofile_purple | 136",
-                "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 0",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 1",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -175,8 +171,6 @@
                 "🇮🇷IR | 🟢 | vmess | @Hope_Net | 2",
                 "🇷🇺RU | 🟢 | vmess | @Hope_Net | 3",
                 "❔XX | 🟢 | vmess | @Hope_Net | 4",
-                "🇸🇬SG | 🟢 | vmess | @Hope_Net | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -537,7 +531,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 0",
+            "tag": "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 1",
             "type": "vmess",
             "server": "57.129.28.65",
             "server_port": 443,
@@ -571,11 +565,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8",
             "type": "vmess",
-            "server": "برای آپدیت کردن کافیه روی سه نقطه بزنید و گزینه آخر رو بزنید...",
-            "server_port": 3524,
-            "uuid": "ebb67b24-24ce-4412-9f54-40aca842c0ec",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "19-telegram-id---vpnf22",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -586,29 +580,22 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "z.looloolooloo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
-                "type": "grpc",
-                "service_name": "3524vmess",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 18",
-            "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+                "type": "ws",
+                "path": "\/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
+                "headers": {
+                    "Host": "z.looloolooloo.com"
+                }
             }
         },
         {
@@ -894,74 +881,6 @@
                 "path": "\/rbqqvws",
                 "headers": {
                     "Host": "dkzbofzkop.com"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬SG | 🟢 | vmess | @Hope_Net | 5",
-            "type": "vmess",
-            "server": "152.69.219.32",
-            "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "152.69.219.32",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/obdii.cfd:443\/linkws",
-                "headers": {
-                    "Host": "152.69.219.32"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
-            "type": "vmess",
-            "server": "158.101.126.221",
-            "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "158.101.126.221",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/obdii.cfd:443\/linkws",
-                "headers": {
-                    "Host": "158.101.126.221"
                 }
             }
         },
