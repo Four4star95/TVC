@@ -155,8 +155,8 @@
                 "🇹🇷TR | 🟢 | vless | @v2rayngvpn | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
-                "🇱🇺LU | 🟢 | vless | @ConfigsHUB | 8",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 13",
+                "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 1",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 9",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
                 "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 0",
@@ -240,8 +240,8 @@
                 "🇹🇷TR | 🟢 | vless | @v2rayngvpn | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
-                "🇱🇺LU | 🟢 | vless | @ConfigsHUB | 8",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 13",
+                "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 1",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 9",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
                 "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 0",
@@ -1811,11 +1811,11 @@
             }
         },
         {
-            "tag": "🇱🇺LU | 🟢 | vless | @ConfigsHUB | 8",
+            "tag": "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 1",
             "type": "vless",
-            "server": "45.12.139.106",
-            "server_port": 8443,
-            "uuid": "da370882-ecfa-4aca-b713-af43492dd904",
+            "server": "193.151.135.21",
+            "server_port": 44443,
+            "uuid": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1825,7 +1825,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "apple.com",
+                "server_name": "www.speedtest.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1834,17 +1834,17 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g",
-                    "short_id": "26a70553"
+                    "public_key": "XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ",
+                    "short_id": ""
                 }
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 13",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 9",
             "type": "vless",
-            "server": "195.93.253.49",
-            "server_port": 33094,
-            "uuid": "6f8923d9-f812-4ca6-b93a-8f9227bf2eab",
+            "server": "46.101.68.119",
+            "server_port": 1418,
+            "uuid": "60d6cc41-74a3-4740-8daa-efbb2556f8ac",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1854,17 +1854,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "journalofbigdata.springeropen.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": null
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE",
-                    "short_id": "29489194da0d5d@V2rayNGVPN <= کانفیگ رایگان"
+                    "public_key": "fjIuPlPwyFpjb4JroIq6iGpM_iU2zyg2OceRuT0hxzA",
+                    "short_id": "463eeabdea24aa"
                 }
             }
         },
