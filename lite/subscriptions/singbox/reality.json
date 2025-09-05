@@ -114,7 +114,7 @@
                 "🇳🇱NL | 🟢 | vless | @shh_proxy | 11",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇷🇺RU | 🟢 | vless | @v2rayNG_Matsuri | 6",
-                "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 5",
+                "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 6",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -135,7 +135,7 @@
                 "🇳🇱NL | 🟢 | vless | @shh_proxy | 11",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇷🇺RU | 🟢 | vless | @v2rayNG_Matsuri | 6",
-                "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 5",
+                "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 6",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -410,7 +410,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 5",
+            "tag": "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 6",
             "type": "vless",
             "server": "185.200.240.134",
             "server_port": 443,
