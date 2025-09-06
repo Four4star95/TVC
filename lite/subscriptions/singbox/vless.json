@@ -117,12 +117,12 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 11",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 11",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🟢 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "🇨🇦CA | 🔴 | vless | @rxv2ray | 13",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 11",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 12",
@@ -169,7 +169,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&type=ws#🇫🇷FR | 🔴 | vless | @free1_vpn | 2",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
@@ -208,12 +209,12 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 11",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 11",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🟢 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "🇨🇦CA | 🔴 | vless | @rxv2ray | 13",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 11",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 12",
@@ -260,7 +261,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&type=ws#🇫🇷FR | 🔴 | vless | @free1_vpn | 2",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
@@ -598,7 +600,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -619,7 +621,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -714,7 +716,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @rxv2ray | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 8880,
@@ -1705,7 +1707,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "server.turbooo-server.com",
+            "server_port": 80,
+            "uuid": "turboo-server",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "server.turbooo-server.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8880,
