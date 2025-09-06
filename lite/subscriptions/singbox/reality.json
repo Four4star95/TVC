@@ -117,7 +117,7 @@
                 "🇷🇺RU | 🟢 | vless | @v2rayNG_Matsuri | 6",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 4",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 15",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇫🇷FR | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -142,7 +142,7 @@
                 "🇷🇺RU | 🟢 | vless | @v2rayNG_Matsuri | 6",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 4",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 15",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇫🇷FR | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -505,11 +505,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 15",
+            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "167.99.45.44",
-            "server_port": 30402,
-            "uuid": "cicadanet",
+            "server": "ru.sfasti.ru",
+            "server_port": 443,
+            "uuid": "6fae85ca-395a-4f27-9eb2-75123befc475",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -519,7 +519,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.journalofbigdata.springeropen.com",
+                "server_name": "ru.sfasti.ru",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -528,8 +528,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "X0A-gB9NvXnTYsgN3ztH4D1-D3W9bg_OtY5ffUjc614",
-                    "short_id": "2d9d1cbc94"
+                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
+                    "short_id": "16895459a2c7768d"
                 }
             }
         },
