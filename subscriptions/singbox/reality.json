@@ -155,7 +155,6 @@
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 3",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 7",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | 🟢 | vless | @Capoit | 4",
@@ -240,7 +239,6 @@
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 3",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 7",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | 🟢 | vless | @Capoit | 4",
@@ -1793,35 +1791,6 @@
                     "enabled": true,
                     "public_key": "LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo",
                     "short_id": "f430927d"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 7",
-            "type": "vless",
-            "server": "de1.seluna.ir",
-            "server_port": 8990,
-            "uuid": "ea5351df-68ef-4416-a861-33e56ea72343",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
                 }
             }
         },
