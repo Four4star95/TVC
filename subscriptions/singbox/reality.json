@@ -155,7 +155,7 @@
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 3",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 10",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | 🟢 | vless | @Capoit | 4",
@@ -240,7 +240,7 @@
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 3",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 1",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 10",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | 🟢 | vless | @Capoit | 4",
@@ -1797,11 +1797,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
+            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 10",
             "type": "vless",
-            "server": "142.214.154.33",
-            "server_port": 50656,
-            "uuid": "60b4bff4-c1f7-4016-aa20-77b818c77f66",
+            "server": "212.41.8.198",
+            "server_port": 443,
+            "uuid": "d4e4c02a-d969-47a6-ba0f-3d433fdac206",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1811,17 +1811,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tesla.com",
+                "server_name": "wa.sfasti.ru",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "T2AcKy-SX614aufq0znSBD-znVcyOmjMQ96sNdA6gkQ",
-                    "short_id": "00cbcdf5d2"
+                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
+                    "short_id": "16895459a2c7768d"
                 }
             }
         },
