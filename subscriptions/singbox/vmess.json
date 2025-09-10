@@ -123,6 +123,8 @@
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 136",
                 "🇫🇷FR | 🟢 | vmess | @prrofile_purple | 141",
                 "🇳🇱NL | 🟢 | vmess | @prrofile_purple | 153",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 17",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 19",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -158,6 +160,8 @@
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 136",
                 "🇫🇷FR | 🟢 | vmess | @prrofile_purple | 141",
                 "🇳🇱NL | 🟢 | vmess | @prrofile_purple | 153",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 17",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 19",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -526,6 +530,40 @@
                 "headers": {
                     "Host": "nl-2.stunnel.cc"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 17",
+            "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 19",
+            "type": "vmess",
+            "server": "176.97.210.2",
+            "server_port": 45143,
+            "uuid": "@Geek_Spot",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
