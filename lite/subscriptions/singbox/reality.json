@@ -111,9 +111,9 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
-                "🇹🇷TR | 🟢 | vless | @prrofile_purple | 145",
+                "🇹🇷TR | 🟢 | vless | @prrofile_purple | 153",
                 "🇳🇱NL | 🟢 | vless | @ShadowProxy66 | 3",
-                "🇱🇻LV | 🟢 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -132,9 +132,9 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
-                "🇹🇷TR | 🟢 | vless | @prrofile_purple | 145",
+                "🇹🇷TR | 🟢 | vless | @prrofile_purple | 153",
                 "🇳🇱NL | 🟢 | vless | @ShadowProxy66 | 3",
-                "🇱🇻LV | 🟢 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -316,7 +316,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🟢 | vless | @prrofile_purple | 145",
+            "tag": "🇹🇷TR | 🟢 | vless | @prrofile_purple | 153",
             "type": "vless",
             "server": "s5.nodu10.ru",
             "server_port": 443,
@@ -374,11 +374,11 @@
             }
         },
         {
-            "tag": "🇱🇻LV | 🟢 | vless | @ConfigsHUB | 16",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "77.73.238.211",
-            "server_port": 16109,
-            "uuid": "6bb90b5a-db5b-401d-afa9-49667e75de1e",
+            "server": "91.99.95.76",
+            "server_port": 443,
+            "uuid": "TELEGRAM-CONFiGLiNE",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -388,18 +388,25 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "ru.sfasti.ru",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s",
-                    "short_id": "46ef6b9bc8"
+                    "public_key": "E9Ve9pGVnR-PcLSdOI4onL0qPyvsVVVY44vhmZOTlhc",
+                    "short_id": "5e79a423a5"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
