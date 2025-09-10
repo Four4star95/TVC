@@ -167,8 +167,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
-                "\/Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
@@ -261,8 +261,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
-                "\/Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
@@ -1694,11 +1694,11 @@
             }
         },
         {
-            "tag": "\/Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 443,
-            "uuid": "e2c0a0ac-0270-4ebc-acbd-75df71153b0e",
+            "server": "104.16.157.108",
+            "server_port": 8080,
+            "uuid": "0ffac2f2-7272-4a4f-b009-3a0e2f1271d0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1708,23 +1708,26 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "opening-hours.nz",
-            "server_port": 80,
-            "uuid": "bbe59f7a-e4c1-4a1d-cbbf-67d44c7d7733",
-            "flow": "xtls-rprx-vision",
+            "server": "172.66.40.99",
+            "server_port": 443,
+            "uuid": "e9ba730d-76c9-4786-9f49-e13d7935e4ae",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480",
-                "headers": {
-                    "Host": "opening-hours.nz"
+            "tls": {
+                "enabled": true,
+                "server_name": "172.66.40.99",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
