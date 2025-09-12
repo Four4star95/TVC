@@ -41,5 +41,5 @@ trojan://telegram-id-directvpn@63.180.46.221:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@51.44.37.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 15
 trojan://telegram-id-directvpn@13.37.56.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 16
 trojan://telegram-id-directvpn@3.78.88.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 17
-trojan://telegram-id-v2rayvpnchannel@15.157.33.104:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇨🇦CA | 🟢 | trojan | @ConfigsHUB | 3
-trojan://NISHIKUITAN111@185.176.26.131:443?allowInsecure=1#🇰🇿KZ | 🔴 | trojan | @ConfigsHUB | 12
+trojan://NISHIKUITAN111@104.18.202.154:443#🚩CF | 🔴 | trojan | @ConfigsHUB | 3
+trojan://slch2024@195.13.44.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇺🇸US | 🔴 | trojan | @ConfigsHUB | 7
