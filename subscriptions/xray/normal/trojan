@@ -41,3 +41,5 @@ trojan://telegram-id-directvpn@3.121.4.162:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@63.180.46.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 15
 trojan://telegram-id-directvpn@51.44.37.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 16
 trojan://telegram-id-directvpn@13.37.56.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 17
+trojan://Aimer@162.159.44.236:443?sni=agepw.ambercc.filegear-sg.me#🚩CF | 🔴 | trojan | @ConfigsHUB | 15
+trojan://auto@[2a06:98c1:3121::3]:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&alpn=h3&fp=randomized&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=/?ed=2560#❔XX | 🟢 | trojan | @ConfigsHUB | 16
