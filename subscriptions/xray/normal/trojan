@@ -37,6 +37,4 @@ trojan://telegram-id-directvpn@13.38.214.60:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@52.47.127.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 13
 trojan://telegram-id-directvpn@3.73.208.237:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@3.127.54.76:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 15
-trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443?type=tcp&security=tls&sni=3derty.852224.dpdns.org&allowInsecure=1#🚩CF | 🔴 | trojan | @ConfigsHUB | 8
-trojan://bpb-trojan@185.238.228.6:443?type=tcp&security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&allowInsecure=1#🇪🇸ES | 🔴 | trojan | @ConfigsHUB | 10
-trojan://bpb-trojan@104.17.9.38:443?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🚩CF | 🔴 | trojan | @ConfigsHUB | 11
+trojan://zL78LA0D5P@5.255.103.217:58194?type=xhttp&path=/moshali33&host=moshali.arshiacomplus.dpdns.org&mode=stream-one&security=tls&fp=firefox&alpn=h3&sni=moshali.arshiacomplus.dpdns.org.cer#🇳🇱NL | 🔴 | trojan | @ConfigsHUB | 0
