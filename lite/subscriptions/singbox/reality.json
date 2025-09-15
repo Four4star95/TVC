@@ -111,9 +111,9 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
-                "🇹🇷TR | 🟢 | vless | @prrofile_purple | 148",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 7",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 6",
                 "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇫🇷FR | 🟢 | vless | @FreakConfig | 17",
@@ -133,9 +133,9 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
-                "🇹🇷TR | 🟢 | vless | @prrofile_purple | 148",
                 "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 7",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 6",
                 "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇫🇷FR | 🟢 | vless | @FreakConfig | 17",
@@ -318,35 +318,6 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🟢 | vless | @prrofile_purple | 148",
-            "type": "vless",
-            "server": "45.89.52.228",
-            "server_port": 443,
-            "uuid": "id7195033332",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.trendyol.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys",
-                    "short_id": "d26c3a"
-                }
-            }
-        },
-        {
             "tag": "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 0",
             "type": "vless",
             "server": "185.200.240.134",
@@ -401,6 +372,35 @@
                     "enabled": true,
                     "public_key": "XXyGhQ_iIds5fOp-JEq76iPb1heaBCSd7N5cOe9oFlg",
                     "short_id": "e0"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "82.148.21.174",
+            "server_port": 443,
+            "uuid": "1a6fe500-59da-4598-8576-256f06765ffb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ru.sfasti.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
+                    "short_id": "16895459a2c7768d"
                 }
             }
         },
