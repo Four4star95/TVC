@@ -165,8 +165,7 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 19",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 4",
@@ -258,8 +257,7 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 19",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 4",
@@ -1635,11 +1633,11 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "Evay_vpn.heloisfood.ir",
-            "server_port": 1530,
-            "uuid": "1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d",
+            "server": "185.250.180.91",
+            "server_port": 443,
+            "uuid": "82306016-bcd5-4f09-8310-198304d8d9e7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1649,7 +1647,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "stackoverflow.com",
+                "server_name": "duckduckgo.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1658,21 +1656,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
-                    "short_id": "077dc29a23d311f2"
+                    "public_key": "IxFbqmfuwejYSKYu69qBnzG9yWSuf7UjHujXWOO_w34",
+                    "short_id": "9137d914cd770b54"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 19",
-            "type": "trojan",
-            "server": "162.159.44.188",
-            "server_port": 443,
-            "password": "blue2024",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
