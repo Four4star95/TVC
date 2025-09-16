@@ -159,7 +159,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 4",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -240,7 +241,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 4",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -1482,17 +1484,56 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 80,
-            "uuid": "2f1f7fbf-f37d-4275-c014-298a83f4e5a8",
+            "server": "loscdn.bm04.xyz",
+            "server_port": 2053,
+            "uuid": "94cf288d-f764-4ce9-a547-a7228144f056",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "loscdn.bm04.xyz",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "91.98.79.239",
+            "server_port": 443,
+            "uuid": "f599eb06-508a-4e24-9d59-4c50bf0333b7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tempail.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8",
+                    "short_id": "f47f400cc96a4e"
+                }
             }
         },
         {
