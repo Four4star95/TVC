@@ -155,11 +155,11 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 17",
-                "🇨🇦CA | 🔴 | vless | @vmess_vless_v2rayng | 18",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 17",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 4",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -236,11 +236,11 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 17",
-                "🇨🇦CA | 🔴 | vless | @vmess_vless_v2rayng | 18",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 17",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 4",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -1402,7 +1402,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @vmess_vless_v2rayng | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 80,
@@ -1482,17 +1482,32 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "89.44.242.222",
-            "server_port": 29500,
-            "uuid": "888a20e2-fc3f-4f52-973c-36a6386225b8",
-            "flow": "",
+            "server": "Evay_vpn.heloisfood.ir",
+            "server_port": 1530,
+            "uuid": "1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
+                    "short_id": "077dc29a23d311f2"
+                }
             }
         },
         {
