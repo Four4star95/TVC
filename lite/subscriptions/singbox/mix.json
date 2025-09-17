@@ -115,7 +115,7 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 59",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 59",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
@@ -167,8 +167,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -209,7 +209,7 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 59",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 59",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
@@ -261,8 +261,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -554,7 +554,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 59",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 59",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -1685,25 +1685,42 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "sss86065.tas-bazi.com",
+            "server": "172.66.40.99",
             "server_port": 443,
-            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
+            "uuid": "0261c8f9-413a-455b-942b-3713c6b0084a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.dollardoon.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7",
+                "headers": {
+                    "Host": "www.dollardoon.com"
+                }
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "Evay_vpn.heloisfood.ir",
-            "server_port": 8678,
-            "uuid": "1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d",
+            "server": "91.107.249.230",
+            "server_port": 54262,
+            "uuid": "53f8294a-b45e-4dc3-b323-0b74a085bfdc",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
