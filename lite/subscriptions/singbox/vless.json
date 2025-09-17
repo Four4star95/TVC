@@ -116,17 +116,17 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 59",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 10",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
-                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
-                "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 16",
+                "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 16",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 6",
@@ -162,6 +162,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
@@ -198,17 +200,17 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 59",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 10",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
-                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
-                "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 16",
+                "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 16",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 6",
@@ -244,6 +246,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
@@ -551,7 +555,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -586,7 +590,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -617,7 +621,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -652,7 +656,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -744,7 +748,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 16",
             "type": "vless",
             "server": "www.bankonbasak.com",
             "server_port": 443,
@@ -1553,6 +1557,56 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "ov-france2.09vpn.com",
+            "server_port": 80,
+            "uuid": "f0758892-f40c-412d-9fab-88103bad1fd8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/vless\/",
+                "headers": {
+                    "Host": "ov-france2.09vpn.com"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "deu246.bypassall.org",
+            "server_port": 443,
+            "uuid": "b4b8aa1f-77d2-4851-a5a4-f78886f3e997",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.bing.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
+                    "short_id": ""
+                }
             }
         },
         {
