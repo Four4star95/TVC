@@ -116,13 +116,12 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 63",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 64",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 14",
@@ -171,7 +170,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 6",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 7",
-                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
@@ -211,13 +211,12 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 63",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 64",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 14",
@@ -266,7 +265,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 6",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 7",
-                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
@@ -577,7 +577,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 64",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -598,7 +598,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -619,7 +619,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -647,20 +647,6 @@
                 "headers": {
                     "Host": "www.arfilter.blog"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -699,7 +685,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1779,17 +1765,61 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "m38a.vip784.com",
-            "server_port": 33801,
-            "uuid": "78bce666-8294-4029-96d0-a54b8260d0b2",
-            "flow": "",
+            "server": "Evay_vpn.heloisfood.ir",
+            "server_port": 1530,
+            "uuid": "fde77d6c-eb2a-4488-ab34-a9a2633b01ec",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
+                    "short_id": "077dc29a23d311f2"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "v2ngfaet.heloisfood.ir",
+            "server_port": 1146,
+            "uuid": "c90132d0-61b4-44e7-b70a-273afc0016c0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
+                    "short_id": "077dc29a23d311f2"
+                }
             }
         },
         {
