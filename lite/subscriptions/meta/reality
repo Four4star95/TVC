@@ -128,8 +128,8 @@ proxies:
   - {"name":"🇫🇮FI | 🟢 | vless | @proxy_kafee | 5","type":"vless","server":"46.62.152.219","port":8443,"udp":true,"uuid":"234a4937-5029-4bcd-b32a-1eda5afc14f8","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"refersion.com","reality-opts":{"public-key":"r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms","short-id":"27e6b66aa77662fb"}}
   - {"name":"🇷🇺RU | 🟢 | vless | @customv2ray | 34","type":"vless","server":"82.148.21.174","port":443,"udp":true,"uuid":"1a6fe500-59da-4598-8576-256f06765ffb","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"ru.sfasti.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8","short-id":"16895459a2c7768d"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @v2ray1_ng | 6","type":"vless","server":"hyperspeed.miniproxy.sbs","port":57554,"udp":true,"uuid":"bb680ef6-9c51-4492-a01a-5fed208981b4","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"miro.com","reality-opts":{"public-key":"AIXbyZcheUcFihE8a6xjBuV6R0Lu5QxMvFmANtBayjo","short-id":"e6b8965784"}}
-  - {"name":"🇦🇪AE | 🟢 | vless | @ConfigsHUB | 17","type":"vless","server":"yuae.amiraizo.com","port":2560,"udp":true,"uuid":"08bc45d6-1637-448a-9840-2759ed247be7","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"www.cloudflare.com","reality-opts":{"public-key":"2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U","short-id":"e41865e506628f44"}}
-  - {"name":"🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 12","type":"vless","server":"ru.sfasti.ru","port":443,"udp":true,"uuid":"1a6fe500-59da-4598-8576-256f06765ffb","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"ru.sfasti.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8","short-id":"16895459a2c7768d"}}
+  - {"name":"🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18","type":"vless","server":"Evay_vpn.heloisfood.ir","port":1530,"udp":true,"uuid":"fde77d6c-eb2a-4488-ab34-a9a2633b01ec","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"stackoverflow.com","reality-opts":{"public-key":"l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA","short-id":"077dc29a23d311f2"}}
+  - {"name":"❔XX | 🟢 | vless | @Outlinev2rayNG | 12","type":"vless","server":"ru.sfasti.ru","port":443,"udp":true,"uuid":"1a6fe500-59da-4598-8576-256f06765ffb","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"ru.sfasti.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8","short-id":"16895459a2c7768d"}}
   - {"name":"❔XX | 🔴 | vless | @vpn_go67 | 21","type":"vless","server":"public.alpanel.top","port":1403,"udp":true,"uuid":"4c6451ba-6594-4d67-a8ae-4df79815a4e3","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"tuyacn.com","grpc-opts":{"grpc-service-name":"@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam"},"reality-opts":{"public-key":"rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA","short-id":"99"}}
 proxy-groups:
   - name: MANUAL
@@ -145,8 +145,8 @@ proxy-groups:
       - '🇫🇮FI | 🟢 | vless | @proxy_kafee | 5'
       - '🇷🇺RU | 🟢 | vless | @customv2ray | 34'
       - '🇩🇪DE | 🔴 | vless | @v2ray1_ng | 6'
-      - '🇦🇪AE | 🟢 | vless | @ConfigsHUB | 17'
-      - '🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 12'
+      - '🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18'
+      - '❔XX | 🟢 | vless | @Outlinev2rayNG | 12'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
   - name: URL-TEST
     type: url-test
@@ -162,8 +162,8 @@ proxy-groups:
       - '🇫🇮FI | 🟢 | vless | @proxy_kafee | 5'
       - '🇷🇺RU | 🟢 | vless | @customv2ray | 34'
       - '🇩🇪DE | 🔴 | vless | @v2ray1_ng | 6'
-      - '🇦🇪AE | 🟢 | vless | @ConfigsHUB | 17'
-      - '🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 12'
+      - '🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18'
+      - '❔XX | 🟢 | vless | @Outlinev2rayNG | 12'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
   - name: FALLBACK
     type: fallback
@@ -178,8 +178,8 @@ proxy-groups:
       - '🇫🇮FI | 🟢 | vless | @proxy_kafee | 5'
       - '🇷🇺RU | 🟢 | vless | @customv2ray | 34'
       - '🇩🇪DE | 🔴 | vless | @v2ray1_ng | 6'
-      - '🇦🇪AE | 🟢 | vless | @ConfigsHUB | 17'
-      - '🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 12'
+      - '🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18'
+      - '❔XX | 🟢 | vless | @Outlinev2rayNG | 12'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
