@@ -117,12 +117,12 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 63",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 14",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 15",
@@ -164,7 +164,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 6",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 7",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 16",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
@@ -200,12 +201,12 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 63",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 14",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 15",
@@ -247,7 +248,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 6",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 7",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 16",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
@@ -574,7 +576,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -595,7 +597,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -626,7 +628,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -647,7 +649,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -661,7 +663,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -675,7 +677,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @rxv2ray | 17",
             "type": "vless",
             "server": "172.67.188.18",
             "server_port": 80,
@@ -1602,23 +1604,60 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8880,
-            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
-            "flow": "",
+            "server": "V2rayNGSelllBoT.heloisfood.ir",
+            "server_port": 2020,
+            "uuid": "c90132d0-61b4-44e7-b70a-273afc0016c0",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
-                "headers": {
-                    "Host": "172.66.40.99"
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
+                    "short_id": "077dc29a23d311f2"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "Evay_vpn.heloisfood.ir",
+            "server_port": 1530,
+            "uuid": "fde77d6c-eb2a-4488-ab34-a9a2633b01ec",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
+                    "short_id": "077dc29a23d311f2"
                 }
             }
         },
