@@ -115,11 +115,11 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 51",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 52",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 51",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
@@ -164,7 +164,7 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 9",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=khtls.armin-website.com&fp=chrome&type=ws&sni=khtls.armin-website.com#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 15",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 16",
@@ -196,11 +196,11 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 51",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 52",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 51",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
@@ -245,7 +245,7 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 9",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=khtls.armin-website.com&fp=chrome&type=ws&sni=khtls.armin-website.com#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 15",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 16",
@@ -528,7 +528,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 51",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 51",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -549,7 +549,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 52",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -570,7 +570,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -605,7 +605,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -1573,30 +1573,23 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=khtls.armin-website.com&fp=chrome&type=ws&sni=khtls.armin-website.com#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8880,
-            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
+            "server": "www.speedtest.net",
+            "server_port": 2083,
+            "uuid": "a61a9487-7d9e-4f77-f35a-284acc0c1925",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "172.66.40.99",
+            "server": "104.254.140.15",
             "server_port": 2096,
             "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
             "flow": "",
@@ -1608,7 +1601,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "6Dd1Xt31Qm.SoLeNtRaA.iNfO",
+                "server_name": "BtEvEjF8zI.sOlEnTrAa.InFo",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1618,9 +1611,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512",
                 "headers": {
-                    "Host": "6Dd1Xt31Qm.SoLeNtRaA.iNfO"
+                    "Host": "BtEvEjF8zI.sOlEnTrAa.InFo"
                 }
             }
         },
