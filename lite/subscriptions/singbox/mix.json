@@ -169,8 +169,7 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 8",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 9",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
@@ -262,8 +261,7 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 8",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 9",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
@@ -1744,31 +1742,34 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "89.44.242.222",
-            "server_port": 29495,
-            "uuid": "4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 2096,
+            "uuid": "502ce704-dcec-4f92-9489-505c99ce6c89",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "89.44.242.222",
-            "server_port": 29500,
-            "uuid": "888a20e2-fc3f-4f52-973c-36a6386225b8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "DFN10.ALaNhiaHO.CoM",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "DFN10.ALaNhiaHO.CoM"
+                }
             }
         },
         {
