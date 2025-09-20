@@ -372,9 +372,9 @@
         {
             "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "masterserver1.heloisfood.ir",
-            "server_port": 1331,
-            "uuid": "c90132d0-61b4-44e7-b70a-273afc0016c0",
+            "server": "157.180.81.19",
+            "server_port": 1530,
+            "uuid": "75ed210a-10f2-4819-ac89-e0ff93b52ec7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
