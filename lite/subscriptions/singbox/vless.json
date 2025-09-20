@@ -117,7 +117,7 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 51",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 52",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
@@ -163,8 +163,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 8",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 9",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 19",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 12",
@@ -199,7 +199,7 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 51",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 52",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
@@ -245,8 +245,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 8",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 9",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 19",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 12",
@@ -572,7 +572,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1583,40 +1583,11 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "157.180.81.19",
-            "server_port": 1530,
-            "uuid": "75ed210a-10f2-4819-ac89-e0ff93b52ec7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
-                    "short_id": "077dc29a23d311f2"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8880,
-            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
+            "server": "ov-france2.09vpn.com",
+            "server_port": 80,
+            "uuid": "f0758892-f40c-412d-9fab-88103bad1fd8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1626,10 +1597,24 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
+                "path": "\/vless\/",
                 "headers": {
-                    "Host": "172.66.40.99"
+                    "Host": "ov-france2.09vpn.com"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "sss90869.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "1f5cfb7a-c03e-4779-b91f-a24e442e2a8f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
