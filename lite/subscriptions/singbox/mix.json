@@ -116,11 +116,11 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 51",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 52",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇸🇪SE | 🔴 | vless | @rxv2ray | 17",
@@ -163,14 +163,14 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
-                "🇫🇷FR | 🟢 | vmess | @v2ray1_ng | 5",
+                "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 5",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 17",
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 9",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 10",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
@@ -207,11 +207,11 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 51",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 52",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇸🇪SE | 🔴 | vless | @rxv2ray | 17",
@@ -254,14 +254,14 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
-                "🇫🇷FR | 🟢 | vmess | @v2ray1_ng | 5",
+                "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 5",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 17",
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 9",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 10",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
@@ -569,7 +569,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 52",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -590,7 +590,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -656,7 +656,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -1610,7 +1610,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @v2ray1_ng | 5",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 5",
             "type": "vmess",
             "server": "kampong.org",
             "server_port": 443,
@@ -1742,23 +1742,31 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 10",
             "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8880,
-            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
-            "flow": "",
+            "server": "94.26.228.10",
+            "server_port": 443,
+            "uuid": "1a6fe500-59da-4598-8576-256f06765ffb",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
-                "headers": {
-                    "Host": "172.66.40.99"
+            "tls": {
+                "enabled": true,
+                "server_name": "ru.sfasti.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
+                    "short_id": "16895459a2c7768d"
                 }
             }
         },
