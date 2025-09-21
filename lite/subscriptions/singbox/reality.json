@@ -114,7 +114,7 @@
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 34",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 5",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 19",
+                "🇦🇪AE | 🟢 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -133,7 +133,7 @@
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 34",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 5",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 19",
+                "🇦🇪AE | 🟢 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -399,11 +399,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 19",
+            "tag": "🇦🇪AE | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "192.142.10.244",
+            "server": "yuae.amiraizo.com",
             "server_port": 2560,
-            "uuid": "548c9fbd-6857-4f0a-b1f1-1cff7cca95af",
+            "uuid": "8e6a1d4e-445b-435c-8819-4d7269fecd40",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
