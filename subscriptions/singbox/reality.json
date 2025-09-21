@@ -140,8 +140,11 @@
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 34",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 5",
-                "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 3",
-                "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
+                "🇹🇷TR | 🟢 | vless | @ConfigsHUB | 15",
+                "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
+                "🇺🇸US | 🟢 | vless | @iP_CF | 0",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 8",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -202,8 +205,11 @@
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 34",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 5",
-                "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 3",
-                "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
+                "🇹🇷TR | 🟢 | vless | @ConfigsHUB | 15",
+                "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
+                "🇺🇸US | 🟢 | vless | @iP_CF | 0",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 8",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -1260,11 +1266,11 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 3",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
             "type": "vless",
-            "server": "212.41.8.198",
-            "server_port": 443,
-            "uuid": "d4e4c02a-d969-47a6-ba0f-3d433fdac206",
+            "server": "173.46.80.143",
+            "server_port": 2560,
+            "uuid": "548c9fbd-6857-4f0a-b1f1-1cff7cca95af",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1274,7 +1280,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "wa.sfasti.ru",
+                "server_name": "www.cloudflare.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1283,13 +1289,71 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
-                    "short_id": "16895459a2c7768d"
+                    "public_key": "2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U",
+                    "short_id": "e41865e506628f44"
                 }
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
+            "type": "vless",
+            "server": "116.203.152.240",
+            "server_port": 2560,
+            "uuid": "548c9fbd-6857-4f0a-b1f1-1cff7cca95af",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U",
+                    "short_id": "e41865e506628f44"
+                }
+            }
+        },
+        {
+            "tag": "🇹🇷TR | 🟢 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "188.132.183.15",
+            "server_port": 2560,
+            "uuid": "548c9fbd-6857-4f0a-b1f1-1cff7cca95af",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U",
+                    "short_id": "e41865e506628f44"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
             "type": "vless",
             "server": "185.113.10.132",
             "server_port": 8650,
@@ -1314,6 +1378,35 @@
                     "enabled": true,
                     "public_key": "YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI",
                     "short_id": "354b9cbe48"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @iP_CF | 0",
+            "type": "vless",
+            "server": "5.181.171.2",
+            "server_port": 443,
+            "uuid": "a87bf8a2-17a4-3054-b51e-876b5f1d0f24",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speed.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y",
+                    "short_id": ""
                 }
             }
         },
