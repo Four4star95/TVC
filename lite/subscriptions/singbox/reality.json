@@ -112,7 +112,7 @@
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 34",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -129,7 +129,7 @@
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 34",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -337,7 +337,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
             "type": "vless",
             "server": "45.205.29.218",
             "server_port": 64767,

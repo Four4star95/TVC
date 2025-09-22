@@ -115,7 +115,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 12",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 41",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 41",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -144,10 +144,10 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 35",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 12",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -159,8 +159,7 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 11",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 13",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 14",
                 "🇵🇱PL | 🔴 | vless | @flyv2ray | 10",
@@ -191,7 +190,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 12",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 41",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 41",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -220,10 +219,10 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 35",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 12",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -235,8 +234,7 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 11",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 13",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 14",
                 "🇵🇱PL | 🔴 | vless | @flyv2ray | 10",
@@ -518,7 +516,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 41",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 41",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -1177,7 +1175,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
             "type": "vless",
             "server": "51.89.118.126",
             "server_port": 25369,
@@ -1233,7 +1231,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
             "type": "vless",
             "server": "45.205.29.218",
             "server_port": 64767,
@@ -1464,38 +1462,17 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 11",
             "type": "vless",
-            "server": "m10a.vip784.com",
+            "server": "m23a.vip784.com",
             "server_port": 33801,
-            "uuid": "2e03cdd6-64e9-4aa6-bc00-ea522f845808",
+            "uuid": "c9b0100b-01b9-4167-b9e2-a0a8cad1e32b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "104.16.20.178",
-            "server_port": 80,
-            "uuid": "a4222cb3-b1e9-42a9-9767-49f6f567b0b7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
-                "headers": {
-                    "Host": "104.16.20.178"
-                }
             }
         },
         {
