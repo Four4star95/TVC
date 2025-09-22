@@ -469,15 +469,18 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
                 "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 0",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 1",
-                "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 2",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 3",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 9",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 15",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 2",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+                "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 5",
+                "🇦🇺AU | 🔴 | vless | @ConfigsHUB | 6",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 7",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
+                "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 10",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
                 "🇪🇸ES | 🔴 | vless | @Capoit | 1",
@@ -932,15 +935,18 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
                 "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 0",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 1",
-                "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 2",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 3",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 9",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 15",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 2",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+                "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 5",
+                "🇦🇺AU | 🔴 | vless | @ConfigsHUB | 6",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 7",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
+                "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 10",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
                 "🇪🇸ES | 🔴 | vless | @Capoit | 1",
@@ -9204,7 +9210,21 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+            "type": "vless",
+            "server": "m61a.vip784.com",
+            "server_port": 33801,
+            "uuid": "cc3afbee-5a0c-475e-85a0-fcb15236e2f7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 2",
             "type": "vless",
             "server": "m13a.vip784.com",
             "server_port": 33801,
@@ -9218,7 +9238,28 @@
             }
         },
         {
-            "tag": "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 80,
+            "uuid": "9de97a22-c894-4ee9-8f32-92b046bcb717",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇵🇱PL | 🔴 | vless | @ConfigsHUB | 5",
             "type": "vless",
             "server": "m23a.vip784.com",
             "server_port": 33801,
@@ -9232,7 +9273,21 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 3",
+            "tag": "🇦🇺AU | 🔴 | vless | @ConfigsHUB | 6",
+            "type": "vless",
+            "server": "m57a.vip784.com",
+            "server_port": 33801,
+            "uuid": "d4437242-7039-4e88-b83b-f383fa5ffda2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 7",
             "type": "vless",
             "server": "62.60.192.209",
             "server_port": 80,
@@ -9253,7 +9308,66 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
+            "type": "vless",
+            "server": "sss92681.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "54801305-3e0e-4d90-8996-b67065155465",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 10",
+            "type": "vless",
+            "server": "42.236.73.72",
+            "server_port": 443,
+            "uuid": "11916472-4e2c-49c6-b75d-71196b3a7ecf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.zitian.cn",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
+            "type": "vless",
+            "server": "198.41.195.29",
+            "server_port": 443,
+            "uuid": "48198295-b7ba-4b5c-8d85-085d55a6c869",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/security=tls",
+                "headers": {
+                    "Host": "aw.ylks.xyz"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 12",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8880,
@@ -9274,94 +9388,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "185.146.173.39",
-            "server_port": 8080,
-            "uuid": "Parsashonam-Bot-21",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-            "type": "vless",
-            "server": "gr.globalunlimitedinternet.xyz",
-            "server_port": 1911,
-            "uuid": "8f0416a7-79ec-4920-86a0-f574b7510249",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "VCwUyNFL_IMTZfEKeIUYEuXbPfzCpuUBGNW1kAu2VW4",
-                    "short_id": "32aaf12b"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "t.me\/entryNET",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "128.199.48.57",
-            "server_port": 39889,
-            "uuid": "f95d8e71-9d31-4d04-8cfc-bacf2030c90b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "128.199.48.57"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "91.99.221.2",
-            "server_port": 443,
-            "uuid": "00134d22-e7bc-4690-860a-05d2be0f6f06",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "188.114.97.3",
+            "server": "140.248.152.40",
             "server_port": 443,
             "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
@@ -9373,7 +9402,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ppal03.mr-lola-raynor.workers.dev",
+                "server_name": "Sanjeshp.Ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -9383,9 +9412,40 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/l\/telegram-marambashi-marambashi\/",
+                "path": "\/H?ed=2560fp=randomized",
                 "headers": {
-                    "Host": "ppal03.mr-lola-raynor.workers.dev"
+                    "Host": "Sanjeshp.Ir"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "188.42.145.159",
+            "server_port": 443,
+            "uuid": "54ef4ecf-ff37-436a-be13-95c8a8a1114d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "VIrgiNiavPn-nL.pagEs.dEv",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/fp=chrome",
+                "headers": {
+                    "Host": "VIrgiNiavPn-nL.pagEs.dEv"
                 }
             }
         },
