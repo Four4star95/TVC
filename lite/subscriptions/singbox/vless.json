@@ -144,7 +144,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 35",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 12",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
@@ -159,6 +159,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 13",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 14",
                 "🇵🇱PL | 🔴 | vless | @flyv2ray | 10",
@@ -168,8 +170,8 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 1",
                 "🇩🇪DE | 🔴 | vless | @kingofilter | 2",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 11",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
                 "❔XX | 🔴 | vless | @SvnTeam | 7",
@@ -218,7 +220,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 35",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 12",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2",
@@ -233,6 +235,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 13",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 14",
                 "🇵🇱PL | 🔴 | vless | @flyv2ray | 10",
@@ -242,8 +246,8 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 1",
                 "🇩🇪DE | 🔴 | vless | @kingofilter | 2",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 11",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
                 "❔XX | 🔴 | vless | @SvnTeam | 7",
@@ -626,7 +630,7 @@
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
-            "uuid": "89de2797-c1b1-4e7d-93b1-3735343d544d",
+            "uuid": "cf6eab35-159b-4446-894b-c8540de90bd4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1173,7 +1177,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
             "type": "vless",
             "server": "51.89.118.126",
             "server_port": 25369,
@@ -1460,6 +1464,41 @@
             }
         },
         {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "m10a.vip784.com",
+            "server_port": 33801,
+            "uuid": "2e03cdd6-64e9-4aa6-bc00-ea522f845808",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "104.16.20.178",
+            "server_port": 80,
+            "uuid": "a4222cb3-b1e9-42a9-9767-49f6f567b0b7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
+                "headers": {
+                    "Host": "104.16.20.178"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🔴 | vless | @Capoit | 13",
             "type": "vless",
             "server": "54.36.112.160",
@@ -1665,11 +1704,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 2",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 1",
             "type": "vless",
             "server": "91.98.22.20",
             "server_port": 22933,
-            "uuid": "edaae19a-8b97-4cff-ba39-7cf86aea8bf7",
+            "uuid": "b1116f9a-fa62-4525-8210-18bb782fb98b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1679,11 +1718,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 2",
             "type": "vless",
             "server": "91.98.22.20",
             "server_port": 22933,
-            "uuid": "234a4937-5029-4bcd-b32a-1eda5afc14f8",
+            "uuid": "edaae19a-8b97-4cff-ba39-7cf86aea8bf7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
