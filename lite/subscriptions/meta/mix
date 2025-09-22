@@ -150,7 +150,7 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 15","type":"trojan","server":"63.179.19.28","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 155","type":"vless","server":"172.67.74.133","port":443,"udp":false,"uuid":"3d7dd548-5456-4f28-8019-393fbfab3312","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"app-stg.gopay.co.id.servpn.my.id","ws-opts":{"path":"/sg3/?ed=2048JOIN---PLANB_PROXY","headers":{"host":"app-stg.gopay.co.id.servpn.my.id"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 156","type":"vless","server":"172.67.74.133","port":443,"udp":false,"uuid":"6780a3c0-a98c-4622-b894-8e34167f7b31","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"blog.ruangguru.com.servpn.my.id","ws-opts":{"path":"/id5/?ed=2048bia-planB_proxy","headers":{"host":"blog.ruangguru.com.servpn.my.id"}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 156","type":"vless","server":"172.67.74.133","port":443,"udp":false,"uuid":"6780a3c0-a98c-4622-b894-8e34167f7b31","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"blog.ruangguru.com.servpn.my.id","ws-opts":{"path":"/id5/?ed=2048bia-planB_proxy","headers":{"host":"blog.ruangguru.com.servpn.my.id"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @customv2ray | 38","type":"vless","server":"63.141.128.38","port":80,"udp":false,"uuid":"d8e7bae0-2adb-4c19-9165-514832abe370","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇷🇺RU | 🟢 | vless | @customv2ray | 39","type":"vless","server":"80.249.131.7","port":443,"udp":true,"uuid":"d4e4c02a-d969-47a6-ba0f-3d433fdac206","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"wa.sfasti.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8","short-id":"16895459a2c7768d"}}
   - {"name":"❔XX | 🔴 | vless | @v2rayngvpn | 11","type":"vless","server":"214124","port":443,"udp":false,"uuid":"060a8fe8-7175-4ded-94a5-d9808bc645b6","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"cf.vless.sandesh.fr","ws-opts":{"path":"/"}}
@@ -214,7 +214,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 155'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 156'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 156'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 38'
       - '🇷🇺RU | 🟢 | vless | @customv2ray | 39'
       - '❔XX | 🔴 | vless | @v2rayngvpn | 11'
@@ -278,7 +278,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 155'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 156'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 156'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 38'
       - '🇷🇺RU | 🟢 | vless | @customv2ray | 39'
       - '❔XX | 🔴 | vless | @v2rayngvpn | 11'
@@ -341,7 +341,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 155'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 156'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 156'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 38'
       - '🇷🇺RU | 🟢 | vless | @customv2ray | 39'
       - '❔XX | 🔴 | vless | @v2rayngvpn | 11'
