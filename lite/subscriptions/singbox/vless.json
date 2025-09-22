@@ -116,14 +116,14 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 48",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 49",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 49",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 8",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 9",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "🇸🇪SE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 15",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
@@ -160,7 +160,7 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 13",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 14",
@@ -193,14 +193,14 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 48",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 49",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 49",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 8",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 9",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "🇸🇪SE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 15",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
@@ -237,7 +237,7 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 13",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 14",
@@ -541,7 +541,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 49",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 49",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -583,7 +583,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -649,7 +649,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -670,7 +670,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -684,7 +684,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1497,11 +1497,11 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "42.236.73.72",
+            "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "11916472-4e2c-49c6-b75d-71196b3a7ecf",
+            "uuid": "telegram-id-Arfilter",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1511,21 +1511,28 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.zitian.cn",
+                "server_name": "ei.arfilter.blog",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "ei.arfilter.blog"
+                }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "198.41.195.29",
-            "server_port": 443,
-            "uuid": "48198295-b7ba-4b5c-8d85-085d55a6c869",
+            "server": "172.66.40.99",
+            "server_port": 8880,
+            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1535,9 +1542,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/security=tls",
+                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
                 "headers": {
-                    "Host": "aw.ylks.xyz"
+                    "Host": "172.66.40.99"
                 }
             }
         },
