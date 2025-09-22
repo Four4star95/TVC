@@ -107,11 +107,11 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
+                "🇬🇧GB | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 5",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇩🇪DE | 🟢 | vmess | @free1_vpn | 9",
+                "🇺🇸US | 🟢 | vmess | @free1_vpn | 9",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 13",
                 "🇬🇧GB | 🟢 | vmess | @Hope_Net | 14"
             ]
@@ -121,11 +121,11 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
+                "🇬🇧GB | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 5",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇩🇪DE | 🟢 | vmess | @free1_vpn | 9",
+                "🇺🇸US | 🟢 | vmess | @free1_vpn | 9",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 13",
                 "🇬🇧GB | 🟢 | vmess | @Hope_Net | 14"
             ],
@@ -167,7 +167,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
+            "tag": "🇬🇧GB | 🟢 | vmess | @ShadowProxy66 | 1",
             "type": "vmess",
             "server": "lammaland.org",
             "server_port": 443,
@@ -286,7 +286,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vmess | @free1_vpn | 9",
+            "tag": "🇺🇸US | 🟢 | vmess | @free1_vpn | 9",
             "type": "vmess",
             "server": "kampong.org",
             "server_port": 443,
