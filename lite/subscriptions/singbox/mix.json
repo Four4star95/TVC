@@ -165,14 +165,14 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇧🇬BG | 🔴 | vless | @ConfigsHUB | 18",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 19",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 10",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 12",
                 "🇷🇴RO | 🔴 | vless | @Capoit | 13",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
@@ -255,14 +255,14 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇧🇬BG | 🔴 | vless | @ConfigsHUB | 18",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 19",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 10",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 12",
                 "🇷🇴RO | 🔴 | vless | @Capoit | 13",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
@@ -1636,11 +1636,11 @@
             }
         },
         {
-            "tag": "🇧🇬BG | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "91.215.153.85",
-            "server_port": 443,
-            "uuid": "b65f4df7-f6af-42b2-877a-cef33f21675e",
+            "server": "160.153.0.183",
+            "server_port": 2082,
+            "uuid": "416f18ec-11f3-4648-9693-8c6480d0662d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1648,43 +1648,29 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "kejiland.freewarp.eu.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/snippets\/ip=proxyip.fxxk.dedyn.io:443?ed=2560",
+                "path": "\/",
                 "headers": {
-                    "Host": "kejiland.freewarp.eu.org"
+                    "Host": "160.153.0.183"
                 }
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "51.89.230.180",
-            "server_port": 25365,
-            "uuid": "72c17850-c1a8-4915-a437-45de2645a6e1",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 19",
+            "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -1806,6 +1792,30 @@
         {
             "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
+            "server": "162.159.140.45",
+            "server_port": 2095,
+            "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/github.com\/Alvin9999",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 2",
+            "type": "vmess",
             "server": "104.26.3.199",
             "server_port": 2052,
             "uuid": "ab1ee1ac-884c-44dc-ab65-d533d32e2b1a",
@@ -1825,23 +1835,6 @@
                 "headers": {
                     "Host": ""
                 }
-            }
-        },
-        {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
-            "type": "vmess",
-            "server": "183.236.48.163",
-            "server_port": 40002,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {

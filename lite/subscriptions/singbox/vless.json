@@ -158,8 +158,7 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇧🇬BG | 🔴 | vless | @ConfigsHUB | 18",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 10",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 12",
@@ -236,8 +235,7 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇧🇬BG | 🔴 | vless | @ConfigsHUB | 18",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 10",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 12",
@@ -1439,55 +1437,24 @@
             }
         },
         {
-            "tag": "🇧🇬BG | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "91.215.153.85",
-            "server_port": 443,
-            "uuid": "b65f4df7-f6af-42b2-877a-cef33f21675e",
+            "server": "160.153.0.183",
+            "server_port": 2082,
+            "uuid": "416f18ec-11f3-4648-9693-8c6480d0662d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "kejiland.freewarp.eu.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             },
             "transport": {
                 "type": "ws",
-                "path": "\/snippets\/ip=proxyip.fxxk.dedyn.io:443?ed=2560",
+                "path": "\/",
                 "headers": {
-                    "Host": "kejiland.freewarp.eu.org"
+                    "Host": "160.153.0.183"
                 }
-            }
-        },
-        {
-            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "51.89.230.180",
-            "server_port": 25365,
-            "uuid": "72c17850-c1a8-4915-a437-45de2645a6e1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
