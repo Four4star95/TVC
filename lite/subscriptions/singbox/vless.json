@@ -114,7 +114,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 45",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 46",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 46",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -142,7 +142,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 38",
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 39",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 10",
-                "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 13",
+                "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 14",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 1",
@@ -157,7 +157,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 18",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇮🇳IN | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 14",
                 "🇷🇴RO | 🔴 | vless | @Capoit | 15",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
@@ -188,7 +189,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 45",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 46",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 46",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -216,7 +217,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 38",
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 39",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 10",
-                "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 13",
+                "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 14",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 1",
@@ -231,7 +232,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 18",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇮🇳IN | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 14",
                 "🇷🇴RO | 🔴 | vless | @Capoit | 15",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
@@ -492,7 +494,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 46",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 46",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -1113,7 +1115,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 13",
+            "tag": "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 14",
             "type": "vless",
             "server": "dl5-uk4-cdn.fastfilecdn.org",
             "server_port": 2052,
@@ -1385,32 +1387,31 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "v2ngfaet.xero-network.ir",
-            "server_port": 1146,
-            "uuid": "2d757868-9260-4fa0-9f8a-cf85208d1d9e",
-            "flow": "xtls-rprx-vision",
+            "server": "164.138.202.139",
+            "server_port": 10777,
+            "uuid": "db4adc7c-32e9-4c3e-8b1f-73371ce20bba",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew",
-                    "short_id": "077dc29a23d311f2"
-                }
+            }
+        },
+        {
+            "tag": "🇮🇳IN | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "206.189.135.13",
+            "server_port": 41856,
+            "uuid": "895a39fb-6c32-49af-b04d-efecc1f6c5fb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

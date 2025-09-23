@@ -4,7 +4,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&e
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&encryption=none&type=grpc#🇫🇷FR | 🔴 | vless | @free_v2rayyy | 2
 trojan://telegram-id-privatevpns@13.39.254.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 14
 trojan://telegram-id-directvpn@13.39.254.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 14
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc&serviceName=#🇫🇷FR | 🔴 | vless | @v2rayngvpn | 12
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc&serviceName=#🇫🇷FR | 🔴 | vless | @v2rayngvpn | 13
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇷FR | 🔴 | vless | @SafeNet_Server | 1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR | 🔴 | vless | @ConfigsHUB | 19
