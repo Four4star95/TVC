@@ -115,8 +115,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 38",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 9",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -145,7 +145,6 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 3",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 10",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 11",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 12",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 1",
@@ -160,6 +159,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇷🇴RO | 🔴 | vless | @Capoit | 15",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
@@ -190,8 +191,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 38",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 9",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -220,7 +221,6 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 3",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 10",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 11",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 12",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 1",
@@ -235,6 +235,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇷🇴RO | 🔴 | vless | @Capoit | 15",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
@@ -516,7 +518,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 38",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -537,7 +539,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -628,7 +630,7 @@
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
-            "uuid": "670f9a84-761d-405b-bdad-eede819fb81f",
+            "uuid": "e7d30818-003c-44e5-a1ae-81031806f3b9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1162,37 +1164,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 12",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "telegram-id-Arfilter",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ei.arfilter.blog",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "ei.arfilter.blog"
-                }
-            }
-        },
-        {
             "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
             "type": "vless",
             "server": "sedr-sehat.online",
@@ -1441,6 +1412,58 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "104.21.112.147",
+            "server_port": 443,
+            "uuid": "219d848d-60f2-4321-8275-72b9b575b37e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "qaa.zhuk.us.kg",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "qaa.zhuk.us.kg"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 8080,
+            "uuid": "c358c324-68eb-41f9-a2a4-3f95fd0d2a61",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
             }
         },
         {
