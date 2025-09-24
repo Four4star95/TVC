@@ -37,4 +37,3 @@ trojan://telegram-id-directvpn@13.36.72.16:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@13.37.205.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 13
 trojan://telegram-id-directvpn@63.177.117.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@63.179.173.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 15
-trojan://auto@104.20.20.150:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🚩CF | 🟢 | trojan | @ConfigsHUB | 5
