@@ -114,7 +114,7 @@
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 38",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 10",
@@ -145,7 +145,6 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 3",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 10",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
-                "🇲🇦MA | 🔴 | vless | @v2rayngvpn | 15",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 1",
@@ -161,6 +160,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
+                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 18",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
                 "🇵🇱PL | 🔴 | vless | @Capoit | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
@@ -190,7 +191,7 @@
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 38",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇫🇷FR | 🔴 | vless | @V2pedia | 10",
@@ -221,7 +222,6 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 3",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 10",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
-                "🇲🇦MA | 🔴 | vless | @v2rayngvpn | 15",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 1",
@@ -237,6 +237,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 10",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
+                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 18",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
                 "🇵🇱PL | 🔴 | vless | @Capoit | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
@@ -458,7 +460,7 @@
         {
             "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "63.179.173.227",
+            "server": "63.177.117.174",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -487,9 +489,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "35.181.180.223",
+            "server": "63.179.173.227",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1181,27 +1183,6 @@
             }
         },
         {
-            "tag": "🇲🇦MA | 🔴 | vless | @v2rayngvpn | 15",
-            "type": "vless",
-            "server": "141.227.142.158",
-            "server_port": 47462,
-            "uuid": "fae6aee4-70ee-4416-b9ee-22d957262ef4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
             "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
             "type": "vless",
             "server": "sedr-sehat.online",
@@ -1475,6 +1456,34 @@
             "server": "speedtestcustom.com",
             "server_port": 80,
             "uuid": "66cadee1-3b32-45e9-b8af-fa951510b4a7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "m13a.vip784.com",
+            "server_port": 33801,
+            "uuid": "552f2fe8-fb7e-4f07-b4d6-a231f1dfec42",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "tun2.fastlink.cfd",
+            "server_port": 8477,
+            "uuid": "dc1647f7-f8c7-4f68-9698-ad360024d81b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
