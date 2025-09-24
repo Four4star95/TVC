@@ -112,7 +112,6 @@
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 39",
-                "🇵🇱PL | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -130,7 +129,6 @@
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 39",
-                "🇵🇱PL | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -335,35 +333,6 @@
                     "enabled": true,
                     "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
                     "short_id": "16895459a2c7768d"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱PL | 🟢 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "poland20.clearorbitllc.com",
-            "server_port": 443,
-            "uuid": "e3847ec6-b2fc-4eb2-b919-174d986f882c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "poland20.clearorbitllc.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ",
-                    "short_id": "2a22"
                 }
             }
         },
